@@ -1,0 +1,23 @@
+# Node.js / React
+node_modules/
+dist/
+build/
+.npm
+*.log
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.pytest_cache/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.env

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Outer flame -->
+  <path d="M 32 4 C 32 4 48 18 48 34 C 48 46 41 58 32 58 C 23 58 16 46 16 34 C 16 22 26 14 32 4 Z" fill="#ff3d00" stroke="#dd2c00" stroke-width="2"/>
+  <!-- Middle flame -->
+  <path d="M 32 18 C 32 18 42 28 42 38 C 42 46 37 52 32 52 C 27 52 22 46 22 38 C 22 30 28 24 32 18 Z" fill="#ff9100"/>
+  <!-- Inner flame -->
+  <path d="M 32 30 C 32 30 37 36 37 42 C 37 46 34 49 32 49 C 30 49 27 46 27 42 C 27 37 30 33 32 30 Z" fill="#ffea00"/>
+</svg>

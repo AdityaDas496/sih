@@ -1,0 +1,10 @@
+metric,value
+test_rows,5755.0
+balanced_accuracy,1.0
+macro_f1,1.0
+industrial_proxy_precision,1.0
+forest_proxy_precision,1.0
+other_natural_proxy_precision,1.0
+industrial_proxy_recall,1.0
+forest_proxy_recall,1.0
+other_natural_proxy_recall,1.0

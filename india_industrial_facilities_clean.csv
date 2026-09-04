@@ -1,0 +1,1119 @@
+facility_id,facility_type,facility_name,latitude,longitude,country,status,capacity,coordinate_accuracy
+P100001045296,steel,Action Ispat and Power Jharsuguda steel plant,21.839759,83.982227,India,,,exact
+P100001025815,steel,Adhunik Metaliks Kuanrmunda steel plant,22.308371,84.763584,India,,,exact
+P100000120532,steel,ArcelorMittal Bellary steel plant,15.139498,76.918417,India,,,approximate
+P100001025671,steel,ArcelorMittal Nippon Steel Anakapalle steel plant,17.407103,82.723183,India,,,approximate
+P100001025669,steel,ArcelorMittal Nippon Steel Gadchiroli steel plant,20.168486,79.987119,India,,,approximate
+P100000120513,steel,ArcelorMittal Nippon Steel Hazira plant,21.112377,72.647304,India,,,exact
+P100000120573,steel,ArcelorMittal Nippon Steel Kendrapara plant,20.71042,86.282806,India,,,approximate
+P100000121178,steel,ArcelorMittal Nippon Steel Paradip plant,20.284771,86.658266,India,,,approximate
+P100000120568,steel,Arjas Steel Tadipatri plant,14.873471,78.048425,India,,,exact
+P100000120564,steel,Atibir Industries Bhorandiha steel plant,24.145239,86.334999,India,,,exact
+P100001023581,steel,Baldota Koppal steel plant,15.332616,76.206778,India,,,exact
+P100001062088,steel,Bhagyalaxmi Metals Mul steel plant,20.088919,79.71792,India,,,exact
+P100000120512,steel,BMM Ispat Danapur steel plant,15.16972,76.37971,India,,,exact
+P100001061667,steel,BPA Metallics Raigarh steel plant,21.926993,83.374089,India,,,approximate
+P100001082544,steel,Captain Steel Debipur steel plant,23.782149607591688,86.83591234561024,India,,,exact
+P100001023577,steel,Captain Steel Garbeta steel plant,22.855859,87.345018,India,,,approximate
+P100001045282,steel,Crest Steel and Power Mangatta steel plant,21.190313,81.19922,India,,,exact
+P100000120534,steel,Electrosteel Bokaro steel plant,23.632907,86.293671,India,,,exact
+P100000121207,steel,Electrosteel Castings Srikalahasthi steel plant,13.717188,79.630588,India,,,exact
+P100000121195,steel,Evonith Metallics Wardha steel plant,20.704605,78.620293,India,,,exact
+P100000121236,steel,Evonith Value Steel Wardha steel plant,20.696412,78.638548,India,,,exact
+P100001045317,steel,Gallantt Ispat Gorakhpur steel plant,26.757009,83.199086,India,,,exact
+P100000121216,steel,Godawari Power and Ispat Sarora steel plant,21.565032,81.739447,India,,,exact
+P100000120557,steel,Godawari Power and Ispat Siltara steel plant,21.376214,81.681888,India,,,exact
+P100000120552,steel,Hospet Steels Hospet plant,15.339055,76.251696,India,,,exact
+P100000120560,steel,Jai Balaji Durgapur Unit IV steel plant,23.483075,87.352189,India,,,exact
+P100000120562,steel,Jai Balaji Jyoti Steels Sundargarh plant,22.085338,84.86184,India,,,exact
+P100001025922,steel,Jai Balaji Rajbandh Unit III steel plant,23.487439,87.369494,India,,,exact
+P100000120547,steel,Jayaswal Neco Industries Raipur steel plant,21.354495,81.676444,India,,,exact
+P100000120544,steel,Jindal Stainless Hisar steel plant,29.127253,75.773075,India,,,exact
+P100000120543,steel,Jindal Stainless Jajpur steel plant,20.954939,86.051986,India,,,exact
+P100001061405,steel,Jindal Stainless Maharashtra steel plant,19.314475,72.976623,India,,,approximate
+P100000120515,steel,Jindal Steel Angul steel plant,20.884896,84.991539,India,,,exact
+P100000121173,steel,Jindal Steel Asanboni steel plant,24.131037,87.438728,India,,,approximate
+P100001062086,steel,Jindal Steel Chhattisgarh steel plant,21.895041,83.376759,India,,,approximate
+P100000121034,steel,Jindal Steel Krishnapatnam steel plant,14.254675,80.108702,India,,,approximate
+P100000120542,steel,Jindal Steel Patratu steel plant,23.632991,85.325308,India,,,exact
+P100000120516,steel,Jindal Steel Raigarh steel plant,21.922703,83.347178,India,,,exact
+P100001044907,steel,JSOL Angul steel plant,20.874713,84.944082,India,,,exact
+P100000120521,steel,JSW Bengal Steel Salboni plant,22.575726,87.310258,India,,,approximate
+P100000120537,steel,JSW BPSL Jharkhand steel plant,22.665526,85.64622,India,,,approximate
+P100000120510,steel,JSW BPSL Jharsuguda steel plant,21.763989,84.022529,India,,,exact
+P100000120570,steel,JSW Green Steel Salav plant,18.530853,72.947091,India,,,exact
+P100001023560,steel,JSW POSCO Keonjhar steel plant,20.248632,86.156416,India,,,approximate
+P100000121039,steel,JSW Rayalseema steel plant,14.76855,78.403263,India,,,exact
+P100000120517,steel,JSW Steel Dolvi steel plant,18.690312,73.035902,India,,,exact
+P100001045504,steel,JSW Steel Gadchiroli steel plant,20.1846793,79.9957641,India,,,approximate
+P100000120520,steel,JSW Steel Jharkhand steel plant,23.188108,85.715097,India,,,approximate
+P100000120536,steel,JSW Steel Raigarh steel plant,21.983709,83.238133,India,,,exact
+P100000120518,steel,JSW Steel Salem steel plant,11.814912,77.918465,India,,,exact
+P100000120519,steel,JSW Steel Vijayanagar steel plant,15.180423,76.663134,India,,,exact
+P100000120539,steel,JSW Utkal Steel Rajnagar plant,20.216667,86.55,India,,,approximate
+P100000120538,steel,JSW Vijayanagar Metallics steel plant,15.203176,76.659122,India,,,approximate
+P100001025631,steel,Kalyani Steels Dhenkanal steel plant,20.601819,85.594653,India,,,approximate
+P100001062093,steel,Kapila Metals Jalna steel plant,19.874223,75.817553,India,,,exact
+P100001045284,steel,KIC Metaliks Durgapur steel plant,23.507539,87.277914,India,,,exact
+P100000120522,steel,Lloyds Metals and Energy Ltd Ghugus steel plant,19.929837,79.119344,India,,,exact
+P100000121179,steel,Lloyds Metals and Energy Ltd Konsari steel plant,19.770409,79.813599,India,,,exact
+P100000120559,steel,Mesco Steel Kalinganagar plant,20.976277,86.044419,India,,,exact
+P100000121239,steel,Mono Steel Gandhidham plant,23.312265,70.201953,India,,,exact
+P100000120567,steel,MSP Steel & Power Raigarh plant,21.87673,83.554495,India,,,exact
+P100001062087,steel,Mukand Sumi Special Steel Hospet steel plant,15.328976,76.258613,India,,,exact
+P100001025672,steel,N R Ispat and Power Raigarh steel plant,22.013086,83.330372,India,,,exact
+P100000120540,steel,Neelachal Ispat Nigam steel plant,20.998641,86.019102,India,,,exact
+P100000121165,steel,Nilachal Iron & Power Gamharia steel plant,22.874863,86.063646,India,,,exact
+P100000120548,steel,NMDC Karnataka steel plant,15.186288,76.916591,India,,,approximate
+P100000120523,steel,NMDC Nagarnar steel plant,19.0931901,82.17,India,,,exact
+P100000121188,steel,Orissa Alloy Steel Kharagpur Plant,22.364258,87.309047,India,,,exact
+P100000121187,steel,Orissa Metaliks Kharagpur steel plant,22.378355,87.281773,India,,,exact
+P100000120566,steel,Orissa Metaliks Markuta steel plant,21.856747,83.966244,India,,,exact
+P100000120563,steel,Orissa Sponge Iron and Steel plant,21.801994,85.56751,India,,,exact
+P100000121189,steel,Orissa Steel and Power Jhargram steel plant,22.3591,87.017184,India,,,exact
+P100000120558,steel,Prakash Industries Janjgir steel plant,22.004694,82.671666,India,,,exact
+P100000121190,steel,Prakash Sponge Iron and Power Challakere steel plant,14.152912,76.665824,India,,,exact
+P100000120553,steel,Ramsarup Industries Kharagpur steel plant,22.977477,88.457443,India,,,exact
+P100001025938,steel,Rashmi Green Hydrogen Steel Kharagpur steel plant,22.331489,87.398085,India,,,exact
+P100000120556,steel,Rashmi Metaliks Jamuria steel plant,23.706343,87.07774,India,,,approximate
+P100000120555,steel,Rashmi Metaliks Kharagpur steel plant,22.360664,87.295932,India,,,exact
+P100000120531,steel,RINL Vizag Steel plant,17.612846,83.191918,India,,,exact
+P100001025819,steel,Rungta Mines Chaliyama steel plant,22.588359,85.905724,India,,,exact
+P100000120569,steel,Rungta Mines Dhenkanal steel plant,20.764524,85.299318,India,,,exact
+P100000121186,steel,Rungta Mines Kamanda steel plant,21.928511,85.223988,India,,,exact
+P100000121185,steel,Rungta Mines Karakhendra steel plant,22.140174,85.414616,India,,,exact
+P100001025818,steel,Rungta Mines Karakolha sponge iron plant,22.13237,85.417031,India,,,exact
+P100000120549,steel,SAIL Alloy steel plant,23.522882,87.275935,India,,,exact
+P100000120525,steel,SAIL Bhilai steel plant,21.185157,81.394207,India,,,exact
+P100000120526,steel,SAIL Bokaro steel plant,23.671677,86.10687,India,,,exact
+P100000120527,steel,SAIL Durgapur steel plant,23.54843,87.245247,India,,,exact
+P100000120524,steel,SAIL IISCO steel plant,23.673236,86.926179,India,,,exact
+P100000120550,steel,SAIL Paradip steel plant,20.317455,86.609001,India,,,approximate
+P100001081803,steel,SAIL Ranchi DRI plant,23.3356313803427,85.31236535745192,India,,,approximate
+P100000120528,steel,SAIL Rourkela steel plant,22.210804,84.86895,India,,,exact
+P100000121191,steel,Shakambhari Ispat and Power Purulia steel plant,23.613861,86.789527,India,,,exact
+P100000121192,steel,Shri Bajrang Power & Ispat Tilda steel plant,21.48619,81.771697,India,,,exact
+P100000121183,steel,Shyam Metalics Jamuria steel plant,23.693749,87.122711,India,,,exact
+P100000121184,steel,Shyam Metalics Sambalpur steel plant,21.680344,84.04179,India,,,exact
+P100000121182,steel,Shyam Steel Mejia steel plant,23.564157,87.089552,India,,,exact
+P100000121181,steel,Shyam Steel Raghunathpur steel plant,23.590212,86.724603,India,,,approximate
+P100000120575,steel,Sunflag Iron and Steel plant,21.232929,79.632398,India,,,exact
+P100001025670,steel,Surjagad Ispat Gadchiroli steel plant,19.487201,79.968551,India,,,approximate
+P100000121193,steel,Swadesh Metallics Simga steel plant,21.625706,81.705254,India,,,approximate
+P100000120546,steel,Tata Metaliks Kharagpur steel plant,22.385611,87.287179,India,,,exact
+P100000120535,steel,Tata Steel Gamharia steel plant,22.812895,86.084022,India,,,exact
+P100000120529,steel,Tata Steel Jamshedpur steel plant,22.788598,86.1996,India,,,exact
+P100000120530,steel,Tata Steel Kalinganagar steel plant,20.970411,86.015211,India,,,exact
+P100000120576,steel,Tata Steel Ludhiana steel plant,30.946888,75.987521,India,,,exact
+P100000120511,steel,Tata Steel Meramandali steel plant,20.796053,85.260382,India,,,exact
+P100000121194,steel,Uttam Galva Ferrous Bellary steel plant,15.184613,76.824905,India,,,exact
+P100001054309,steel,Vardhman Special Steels Ludhiana steel plant,30.890103,75.908673,India,,,approximate
+P100000121205,steel,Vedanta Sesa Goa Pig Iron Plant,15.526866,73.986671,India,,,exact
+P100000120541,steel,Welspun Metallics Anjar Steel plant,23.112781,70.0866885,India,,,exact
+P100000120551,steel,Xindia Steels Koppal plant,15.293421,76.234947,India,,,exact
+P100000121032,steel,Yazdani Steel and Power Kalinganagar steel plant,20.928285,86.036604,India,,,exact
+P100000123900,cement,Birla Corporation Satna Cement Plant,24.595585,80.858324,India,operating,2.7,exact
+P100000123901,cement,Birla Corporation Chanderia Cement Plant,24.930921,74.634164,India,operating,4.2,exact
+P100000123902,cement,KJS Cement Maihar Cement Plant,24.254955,80.797654,India,operating,3.5,exact
+P100000123903,cement,Birla Corporation Raebareli Cement Plant,26.253459,81.250948,India,operating,1.24,exact
+P100000123904,cement,Birla Corporation Durgapur Cement Plant,23.562033,87.233368,India,operating,2.05,exact
+P100000123905,cement,RCCPL Butibori Cement Plant,20.928244,78.922224,India,operating,0.58,exact
+P100000123906,cement,RCCPL Kundanganj Cement Plant,26.404843,81.130322,India,operating,3.61,exact
+P100000123907,cement,My Home Industries Nalgonda Cement Plant,16.810365,79.917592,India,operating,6.4,exact
+P100000123908,cement,My Home Industries Bayyavaram Cement Plant,17.503171,82.772664,India,operating,2.0,exact
+P100000123909,cement,Ambuja Cements Mela Maruthur Cement Plant,8.893025,78.133482,India,operating,1.5,exact
+P100000123910,cement,Cement Corporation of India Bokajan Cement Plant,26.020467,93.766061,India,operating,1.98,exact
+P100000123911,cement,Cement Corporation of India Tandur Cement Plant,17.308637,77.475053,India,operating,1.0,exact
+P100000123912,cement,Cement Corporation of India Rajban Cement Plant,30.521323,77.661101,India,operating,2.0,exact
+P100000123913,cement,Cement Corporation of India Nayagaon Cement Plant,24.540356,74.773539,India,mothballed,0.9,exact
+P100000123914,cement,Cement Corporation of India Akaltara Cement Plant,22.002518,82.40836,India,mothballed,0.4,exact
+P100000123915,cement,Cement Corporation of India Kurgunta Cement Plant,17.183522,77.347377,India,mothballed,0.2,exact
+P100000123916,cement,Century Textiles and Industries Baikunth Cement Plant,21.497444,81.782887,India,operating,2.4,exact
+P100000123917,cement,UltraTech Cement Gadchandur Cement Plant,19.724394,79.176075,India,operating,6.0,exact
+P100000123918,cement,UltraTech Cement Maihar Cement Plant,24.202644,80.799867,India,operating,12.0,exact
+P100000123919,cement,UltraTech Cement Dhalo Cement Plant,24.388462,88.083237,India,operating,3.3,exact
+P100000123920,cement,Chettinad Cement Corporation Sangam K Cement Plant,17.370099,77.445669,India,operating,2.5,exact
+P100000123921,cement,Chettinad Cement Corporation Karikkali Cement Plant,10.712417,78.093078,India,operating,4.5,exact
+P100000123922,cement,Chettinad Cement Corporation Ariyalur Cement Plant,11.058644,79.063006,India,operating,5.5,exact
+P100000123923,cement,Chettinad Cement Corporation Puliyur Cement Plant,10.937116,78.152888,India,operating,1.7,exact
+P100000123924,cement,Chettinad Cement Corporation Solapur Cement Plant,17.530246,76.040366,India,operating,2.0,exact
+P100000123925,cement,Dalmia Cement (Bharat) East Jaintia Hills Cement Plant,25.191604,92.359386,India,operating,1.5,exact
+P100000123927,cement,Dalmia Cement (Bharat) YSR District Cement Plant,14.932014,78.339902,India,operating,3.6,exact
+P100000123928,cement,Dalmia Cement (Bharat) Tiruchirappalli Cement Plant,10.968101,78.947252,India,operating,3.4,exact
+P100000123929,cement,Dalmia Cement (Bharat) Ariyalur Cement Plant,11.182995,79.09975,India,operating,3.0,exact
+P100000123930,cement,Dalmia Cement (Bharat) Belagavi Cement Plant,16.204723,75.209295,India,operating,4.0,exact
+P100000123932,cement,OCL India Rajgangpur Cement Plant,22.201498,84.58922,India,operating,6.25,exact
+P100000123933,cement,Dalmia Cement (North East) Lanka Cement Plant,25.891479,92.975349,India,operating,5.9,exact
+P100000123934,cement,Dalmia Cement (Bharat) Bokaro Steel City Cement Plant,23.700238,86.063099,India,operating,4.5,exact
+P100000123935,cement,Dalmia Cement (Bharat) Amiyajhari Cement Plant,20.628053,86.000291,India,operating,3.95,exact
+P100000123936,cement,OCL India Salboni Cement Plant,22.528774,87.313274,India,operating,1.35,exact
+P100000123937,cement,Alsthom Industries Baghjap Cement Plant,26.168341,92.214092,India,operating,0.6,exact
+P100000123938,cement,HeidelbergCement India Tumkur Cement Plant,13.27022,76.723122,India,operating,0.5,exact
+P100000123939,cement,HeidelbergCement India Narsinghgarh Cement Plant,23.990282,79.392584,India,operating,3.0,exact
+P100000123940,cement,Zuari Cement Sitapuram Cement Plant,16.832064,80.036823,India,operating,1.31,exact
+P100000123941,cement,Zuari Cement Yerraguntla Cement Plant,14.60521,78.522478,India,operating,7.1,exact
+P100000123942,cement,HeidelbergCement India Jhansi Cement Plant,25.499517,78.711436,India,operating,2.7,exact
+P100000123943,cement,Zuari Cement Attipattu Cement Plant,13.260661,80.306354,India,operating,1.0,exact
+P100000123944,cement,Zuari Cement Solapur Cement Plant,17.540668,76.034869,India,operating,0.95,exact
+P100000123945,cement,India Cements Alathiyur Cement Plant,11.357619,79.223045,India,operating,4.71,exact
+P100000123946,cement,India Cements Chilamakuru Cement Plant,14.665693,78.457835,India,operating,1.5,exact
+P100000123947,cement,India Cements Malkapur Cement Plant,17.331722,77.487459,India,operating,2.4,exact
+P100000123948,cement,India Cements Sankari West Cement Plant,11.454468,77.828686,India,operating,1.7,exact
+P100000123949,cement,India Cements Sankarnagar Cement Plant,8.78885,77.730918,India,operating,2.05,exact
+P100000123950,cement,India Cements Wadapally Cement Plant,16.696363,79.648627,India,operating,2.5,exact
+P100000123951,cement,India Cements YSR District Cement Plant,14.642947,78.528902,India,operating,0.9,exact
+P100000123952,cement,Trinetra Cement Banswara Cement Plant,23.603059,74.256034,India,operating,1.8,exact
+P100000123953,cement,India Cements Athipatttu Cement Plant,13.241161,80.291687,India,operating,1.1,exact
+P100000123954,cement,India Cements Parli Cement Plant,18.861883,76.542925,India,operating,1.1,exact
+P100000123955,cement,JK Cement Gotan Cement Plant,26.644668,73.727432,India,operating,1.75,exact
+P100000123956,cement,JK Cement Nimbahera Cement Plant,24.642507,74.684476,India,operating,4.9,exact
+P100000123957,cement,JK Cement Chittaurgarh Cement Plant,24.695595,74.684612,India,operating,3.75,exact
+P100000123958,cement,JK Cement Bagalkot Cement Plant,16.205971,75.298457,India,operating,3.5,exact
+P100000123959,cement,JK Cement Jhajjar Cement Plant,28.490245,76.386299,India,operating,2.0,exact
+P100000123960,cement,JK Lakshmi Cement Ahiwara Cement Plant,21.372294,81.450134,India,operating,5.0,exact
+P100000123961,cement,JK Lakshmi Cement Sirohi Cement Plant,24.69062,73.002276,India,operating,4.75,exact
+P100000123962,cement,JK Lakshmi Cement Jhajjar Cement Plant,28.495111,76.358152,India,operating,1.3,exact
+P100000123963,cement,JK Lakshmi Cement Gandhinagar Cement Plant,23.176764,72.442047,India,operating,1.3,exact
+P100000123965,cement,JK Lakshmi Cement Surat Cement Plant,21.142718,73.021944,India,operating,1.4,exact
+P100000123967,cement,JSW Cement Nandyal Cement Plant,15.686282,78.458991,India,operating,4.2,exact
+P100000123968,cement,JSW Cement Jamdedya Cement Plant,22.576171,87.309609,India,operating,3.6,exact
+P100000123969,cement,JSW Cement Raigad Cement Plant,18.682155,73.03803,India,operating,4.5,exact
+P100000123970,cement,JSW Cement Bellary Cement Plant,15.179579,76.700306,India,operating,6.0,exact
+P100000123971,cement,Jaypee Cement Corp Rewa Cement Plant,24.565587,81.176433,India,operating,3.0,exact
+P100000123972,cement,KCP Macherla Cement Plant,16.468871,79.435689,India,operating,0.8,exact
+P100000123973,cement,KCP Mukteswarapuram Cement Plant,16.837636,80.063456,India,operating,3.52,exact
+P100000123974,cement,Kesoram Industries Basanth Nagar Cement Plant,18.712203,79.404569,India,operating,1.5,exact
+P100000123975,cement,Kesoram Industries Gulbarga Cement Plant,17.160018,77.293503,India,operating,8.65,exact
+P100000123976,cement,ACC Bardol Cement Plant,21.372104,83.61546,India,operating,2.5,exact
+P100000123977,cement,ACC Barmana Cement Plant,31.413701,76.834892,India,operating,4.64,exact
+P100000123978,cement,ACC Cementnagar Cement Plant,19.919046,79.113259,India,operating,3.8,exact
+P100000123979,cement,ACC Jamul Cement Plant,21.239354,81.383196,India,operating,4.0,exact
+P100000123980,cement,ACC Jhinkpani Cement Plant,22.424461,85.753248,India,operating,1.2,exact
+P100000123981,cement,ACC Kymore Cement Plant,24.054744,80.613003,India,operating,2.72,exact
+P100000123982,cement,ACC Ametha Cement Plant,24.009317,80.529783,India,operating,1.0,exact
+P100000123983,cement,ACC Lakheri Cement Plant,25.670752,76.188927,India,operating,1.5,exact
+P100000123984,cement,ACC Madukkarai Cement Plant,10.906571,76.955751,India,operating,1.0,exact
+P100000123985,cement,ACC Wadi Cement Plant,17.062828,76.978304,India,operating,5.79,exact
+P100000123986,cement,Ambuja Cements Ambuja Nagar Cement Plant,20.83622,70.69306,India,operating,5.7,exact
+P100000123987,cement,Ambuja Cements Darlaghat Cement Plant,31.258581,76.924968,India,operating,6.8,exact
+P100000123988,cement,Ambuja Cements Rabriyawas Cement Plant,26.29945,74.127123,India,operating,2.6,exact
+P100000123989,cement,Ambuja Cements Rawan Cement Plant,21.672501,82.083805,India,operating,3.5,exact
+P100000123990,cement,Ambuja Cements Sonapur Cement Plant,19.703919,79.220306,India,operating,4.75,exact
+P100000123991,cement,ACC Sindri Cement Plant,23.663137,86.500554,India,operating,4.0,exact
+P100000123992,cement,ACC Kudithini Cement Plant,15.215663,76.781365,India,operating,3.0,exact
+P100000123993,cement,ACC Gauriganj Cement Plant,26.190592,81.706283,India,operating,3.91,exact
+P100000123994,cement,Ambuja Cements Bhatinda Cement Plant,30.233638,74.912213,India,operating,1.2,exact
+P100000123995,cement,Ambuja Cements Dadri Cement Plant,28.570512,77.546556,India,operating,1.8,exact
+P100000123996,cement,Ambuja Cements Dhulagori Cement Plant,22.569254,88.194228,India,operating,4.8,exact
+P100000123997,cement,Ambuja Cements Jajhra Cement Plant,31.114069,76.643271,India,operating,1.5,exact
+P100000123998,cement,Ambuja Cements Lodhimajra Cement Plant,31.03634,76.56755,India,operating,2.5,exact
+P100000123999,cement,Ambuja Cements Magdalla Cement Plant,21.139583,72.739127,India,operating,1.56,exact
+P100000124000,cement,Ambuja Cements Sikandarpur Cement Plant,29.967487,77.769868,India,operating,1.0,exact
+P100000124001,cement,Ambuja Cements Farakka Cement Plant,24.775292,87.88645,India,operating,1.25,exact
+P100000124002,cement,ACC Sunuri Cement Plant,23.637114,86.887733,India,operating,0.7,exact
+P100000124003,cement,ACC Thondebhavi Cement Plant,13.499152,77.509404,India,operating,1.6,exact
+P100000124004,cement,Malabar Cements Walayar Cement Plant,10.848197,76.835789,India,operating,0.66,exact
+P100000124005,cement,Malabar Cements Pallipuram Cement Plant,9.748529,76.362414,India,operating,0.2,exact
+P100000124006,cement,Murli Industries Chandrapur Cement Plant,19.787467,79.064451,India,operating,3.0,exact
+P100000124007,cement,NCL Industries Nalgonda Cement Plant,16.715611,79.817766,India,operating,2.6,exact
+P100000124008,cement,NCL Industries Krishna Cement Plant,16.661776,80.547848,India,operating,0.99,exact
+P100000124009,cement,NU Vista Risda Cement Plant,21.63125,82.110036,India,operating,3.0,exact
+P100000124010,cement,NuvoVistas Corporation Janjgir Champa Cement Plant,21.969431,82.351432,India,operating,1.89,exact
+P100000124011,cement,NuvoVistas Corporation Raseda Cement Plant,21.73034,82.212864,India,operating,0.65,exact
+P100000124012,cement,NuvoVistas Corporation Nimbol Cement Plant,26.332138,73.847671,India,operating,2.28,exact
+P100000124013,cement,NuvoVistas Corporation Chittaurgarh Cement Plant,24.714457,74.670187,India,operating,2.6,exact
+P100000124014,cement,NU Vista Panagarh Cement Plant,23.439328,87.51119,India,operating,2.5,exact
+P100000124015,cement,Nuvoco Vistas Corporation Meja Cement Plant,23.461907,87.120726,India,operating,1.65,exact
+P100000124016,cement,NuvoVistas Corporation Jojobera Cement Plant,22.753765,86.245522,India,operating,6.6,exact
+P100000124017,cement,NuvoVistas Corporation Bhiwani Cement Plant,28.455175,76.273575,India,operating,1.2,exact
+P100000124019,cement,NU Vista Bhabua Cement Plant,25.223534,83.461625,India,operating,0.8,exact
+P100000124020,cement,Orient Cement Devapur Cement Plant,19.033435,79.349324,India,operating,3.5,exact
+P100000124021,cement,Orient Cement Chittapur Cement Plant,17.108274,77.132457,India,operating,3.0,exact
+P100000124022,cement,Orient Cement Jalgaon Cement Plant,21.021005,75.683457,India,operating,2.0,exact
+P100000124023,cement,Ambuja Cements Talaricheruvu Cement Plant,14.951422,78.075824,India,operating,2.2,exact
+P100000124024,cement,Ambuja Cement Tandur Cement Plant,17.296071,77.504923,India,operating,2.0,exact
+P100000124025,cement,Ambuja Cements Anantapuram Cement Plant,15.061606,77.950937,India,operating,2.0,exact
+P100000124026,cement,Ambuja Cement Wadapally Cement Plant,16.718672,79.694801,India,operating,1.2,exact
+P100000124027,cement,Ambuja Cement Pune Cement Plant,18.473438,74.484301,India,operating,1.0,exact
+P100000124028,cement,Ambuja Cements Thamminapatnam Cement Plant,14.27251,80.11508,India,operating,4.0,exact
+P100000124029,cement,Rain Cements Kurnool Cement Plant,15.221793,77.93196,India,operating,2.8,exact
+P100000124030,cement,Rain Cements Ramapuram Cement Plant,16.84395,79.984596,India,operating,1.5,exact
+P100000124031,cement,Ramco Cements Govindapuram Cement Plant,11.177107,79.08911,India,operating,5.5,exact
+P100000124032,cement,RamCements Jayanthipuram Cement Plant,16.875719,80.1215,India,operating,3.65,exact
+P100000124033,cement,Ramco Cements Mathodu Cement Plant,13.758783,76.422107,India,operating,0.3,exact
+P100000124034,cement,Ramco Cements Alathiyur Cement Plant,11.361772,79.232041,India,operating,3.05,exact
+P100000124035,cement,Ramco Cements Tulukkapatti Cement Plant,9.455703,77.927796,India,operating,3.0,exact
+P100000124036,cement,Ramco Cements Kolaghat Cement Plant,22.423362,87.862852,India,operating,1.95,exact
+P100000124037,cement,Ramco Cements Salem Cement Plant,11.634286,78.403619,India,operating,2.0,exact
+P100000124038,cement,RamCements Vishakhapatnam Cement Plant,17.617542,82.891222,India,operating,2.0,exact
+P100000124039,cement,Ramco Cements Chengalpattu Cement Plant,12.643418,79.69946,India,operating,0.75,exact
+P100000124040,cement,Sagar Cements Mattampally Cement Plant,16.766967,79.862794,India,operating,3.0,exact
+P100000124042,cement,Sagar Cements Bayyavaram Cement Plant,17.655559,82.926289,India,operating,1.5,exact
+P100000124043,cement,Shree Cement Beawar Cement Plant,26.081874,74.380089,India,operating,3.6,exact
+P100000124044,cement,Shree Cement Benakanahalli Cement Plant,17.041739,77.22044,India,operating,4.0,exact
+P100000124045,cement,Shree Cement Ras Cement Plant,26.268063,74.188744,India,operating,4.4,exact
+P100000124046,cement,Shree Cement Raipur Cement Plant,21.602223,82.041492,India,operating,3.0,exact
+P100000124047,cement,Shree Cement Laksar Cement Plant,29.758381,78.062049,India,operating,1.8,exact
+P100000124048,cement,Shree Cement Jaipur Cement Plant,26.931614,75.394888,India,operating,1.5,exact
+P100000124049,cement,Shree Cement Aurangabad Cement Plant,24.774342,84.354352,India,operating,3.6,exact
+P100000124050,cement,Shree Cement Rajarampur Cement Plant,28.480534,77.658796,India,operating,2.0,exact
+P100000124051,cement,Shree Cement Panipat Cement Plant,29.396089,76.889313,India,operating,1.5,exact
+P100000124052,cement,Shree Cement Khushkhera Cement Plant,28.121957,76.777883,India,operating,3.5,exact
+P100000124053,cement,Shree Cement Suratgarh Cement Plant,29.156732,73.865416,India,operating,3.6,exact
+P100000124054,cement,Shree Cement Hansda Cement Plant,22.753658,85.85646,India,operating,3.0,exact
+P100000124055,cement,UltraTech Cement Sirohi Cement Plant,24.82232,73.093914,India,operating,4.85,exact
+P100000124056,cement,UltraTech Cement Sidhi Cement Plant,24.327418,81.329448,India,operating,3.5,exact
+P100000124057,cement,UltraTech Cement Dalla Cement Plant,24.449401,83.039567,India,operating,1.8,exact
+P100000124058,cement,UltraTech Cement Jaypee Puram Cement Plant,24.528559,81.169019,India,operating,2.5,exact
+P100000124059,cement,UltraTech Cement Budawada Cement Plant,16.871085,80.021716,India,operating,5.0,exact
+P100000124060,cement,UltraTech Cement Nrupathanga Cement Plant,17.141011,77.176197,India,operating,8.7,exact
+P100000124061,cement,UltraTech Cement Adityapuram Cement Plant,24.765642,74.609918,India,operating,8.0,exact
+P100000124062,cement,UltraTech Cement Chandrapur Cement Plant,19.785699,79.148964,India,operating,6.0,exact
+P100000124063,cement,UltraTech Cement Jafrabad Cement Plant,20.868289,71.397709,India,operating,1.45,exact
+P100000124064,cement,UltraTech Cement Tadipatri Cement Plant,15.023021,78.01432,India,operating,9.0,exact
+P100000124065,cement,UltraTech Cement Hirmi Cement Plant,21.545403,81.947803,India,operating,3.55,exact
+P100000124066,cement,UltraTech Cement Vikram Nagar Cement Plant,24.578516,74.803992,India,operating,6.67,exact
+P100000124067,cement,UltraTech Cement Amreli Cement Plant,20.910015,71.46093,India,operating,8.0,exact
+P100000124068,cement,UltraTech Cement Kotputli Cement Plant,27.668801,76.128894,India,operating,4.0,exact
+P100000124069,cement,UltraTech Cement Kharia Khangar Cement Plant,26.606036,73.684448,India,operating,1.4,exact
+P100000124070,cement,UltraTech Cement Rawan Cement Plant,21.577059,82.021174,India,operating,6.5,exact
+P100000124071,cement,UltraTech Cement Reddipalayam Cement Plant,11.105441,79.172074,India,operating,1.6,exact
+P100000124072,cement,UltraTech Cement Sewagram Cement Plant,23.42854,68.712812,India,operating,5.0,exact
+P100000124073,cement,UltraTech Cement Kandhar Cement Plant,31.3282,76.894259,India,operating,2.54,exact
+P100000124074,cement,UltraTech Cement Tonki Cement Plant,22.266143,75.131695,India,operating,5.2,exact
+P100000124075,cement,UltraTech Cement Ambedkar Nagar Cement Plant,26.576623,82.584652,India,operating,4.2,exact
+P100000124076,cement,UltraTech Cement Bagheri Cement Plant,31.197965,76.629839,India,operating,2.0,exact
+P100000124077,cement,UltraTech Cement Wanakbori Cement Plant,22.86688,73.360916,India,operating,3.0,exact
+P100000124078,cement,UltraTech Cement Dhutra Cement Plant,21.892175,84.098455,India,operating,2.6,exact
+P100000124079,cement,UltraTech Cement Arakkonam Cement Plant,13.078557,79.613393,India,operating,1.2,exact
+P100000124080,cement,UltraTech Cement Hooghly Cement Plant,22.726902,88.26913,India,operating,1.6,exact
+P100000124081,cement,UltraTech Cement Koppal Cement Plant,15.352161,76.263198,India,operating,1.3,exact
+P100000124082,cement,UltraTech Cement Hipale Cement Plant,17.558229,76.003405,India,operating,4.0,exact
+P100000124083,cement,UltraTech Cement Jhajjar Cement Plant,28.505156,76.36704,India,operating,1.8,exact
+P100000124084,cement,UltraTech Cement Panipat Cement Plant,29.289373,76.808284,India,operating,2.4,exact
+P100000124085,cement,UltraTech Cement Kasimpur Cement Plant,27.989507,78.136713,India,operating,1.3,exact
+P100000124086,cement,UltraTech Cement Bathinda Cement Plant,30.272417,75.162379,India,operating,2.0,exact
+P100000124087,cement,UltraTech Cement Magdalla Cement Plant,21.137147,72.733044,India,operating,2.0,exact
+P100000124088,cement,UltraTech Cement Durgapur Cement Plant,23.492432,87.362242,India,operating,5.0,exact
+P100000124089,cement,UltraTech Cement Salarpur Khadar Cement Plant,28.578002,77.592701,India,operating,1.3,exact
+P100000124090,cement,UltraTech Cement Ratnagiri Cement Plant,17.0013,73.303187,India,operating,0.48,exact
+P100000124091,cement,UltraTech Cement Katni Cement Plant,23.680882,80.650487,India,operating,2.0,exact
+P100000124092,cement,UltraTech Cement Nagpur Cement Plant,21.249633,79.370573,India,operating,2.6,exact
+P100000124093,cement,UltraTech Cement Patliputra Cement Plant,25.395551,85.292394,India,operating,4.7,exact
+P100000124094,cement,UltraTech Cement Roorkee Cement Plant,29.888977,77.812058,India,operating,2.5,exact
+P100000124095,cement,UltraTech Cement Sikandrabad Cement Plant,28.469413,77.666031,India,operating,1.0,exact
+P100000124096,cement,Bharathi Cement Corporation Kadapa Cement Plant,14.586917,78.579757,India,operating,5.0,exact
+P100000124097,cement,Kalburgi Cement Chatarsal Cement Plant,17.303447,77.43615,India,operating,2.75,exact
+P100000124098,cement,Shree Digvijay Cement Company Sikka Cement Plant,22.429021,69.834138,India,operating,3.0,exact
+P100000124099,cement,Andhra Cements Dachepalli Cement Plant,16.648359,79.702465,India,operating,3.0,exact
+P100000124100,cement,Anjani Portland Cement Nalgonda Cement Plant,16.767007,80.014024,India,operating,2.13,exact
+P100000124101,cement,Bagalkot Cement and Industries Bagalkot Cement Plant,16.17713,75.681411,India,operating,0.6,exact
+P100000124102,cement,Barak Valley Cements Badarpur Cement Plant,24.865722,92.582104,India,operating,0.37,exact
+P100000124103,cement,Bhavya Cements Guntur Cement Plant,16.654684,79.81512,India,operating,1.4,exact
+P100000124106,cement,Amrit Cement East Jaintia Hills Cement Plant,25.242787,92.345654,India,operating,1.5,exact
+P100000124107,cement,DCM Shriram Kota Cement Plant,25.134755,75.889485,India,operating,0.44,exact
+P100000124108,cement,Deccan Cements Wadapally Cement Plant,16.711862,79.711104,India,operating,4.0,exact
+P100000124109,cement,Green Valliey Industries Chiehruphi Cement Plant,25.240013,92.390906,India,operating,0.47,exact
+P100000124110,cement,Saurashtra Cement Sutrapada Cement Plant,20.867858,70.564701,India,operating,1.2,exact
+P100000124111,cement,Hills Cement East Jaintia Hills Cement Plant,25.225076,92.388161,India,operating,1.0,exact
+P100000124112,cement,JUD Cements East Jaintia Hills Cement Plant,25.192405,92.400015,India,operating,0.5,exact
+P100000124113,cement,Jammu & Kashmir Cements Khrew Cement Plant,34.032635,75.015643,India,operating,0.4,exact
+P100000124114,cement,Keerthi Industries Nalgonda Cement Plant,16.798253,79.912905,India,operating,0.69,exact
+P100000124116,cement,Jammu & Kashmir Cements Samba Cement Plant,32.554584,75.110342,India,operating,0.11,approximate
+P100000124117,cement,Khyber Industries Khunmoh Cement Plant,34.077497,74.975355,India,operating,0.58,exact
+P100000124118,cement,Mangalam Cement Chonsala Cement Plant,24.71512,75.953886,India,operating,3.25,exact
+P100000124119,cement,Mancherial Cement Company Mancherial Cement Plant,18.8943,79.450065,India,retired,0.37,exact
+P100000124120,cement,Meghalaya Cements Umbadoh Cement Plant,25.204735,92.383684,India,operating,0.95,exact
+P100000124121,cement,Panyam Cements & Mineral Industries Kurnool Cement Plant,15.50002,78.210468,India,operating,1.35,exact
+P100000124122,cement,Parasakti Cement Industries Goli Cement Plant,16.624455,79.502704,India,operating,1.26,exact
+P100000124123,cement,Prism Johnson Mankahari Cement Plant,24.565681,81.000297,India,operating,6.6,exact
+P100000124124,cement,Sanghi Industries Hothiay Cement Plant,23.49822,68.578098,India,operating,6.1,exact
+P100000124125,cement,Saurashtra Cement Porbandar Cement Plant,21.704422,69.719992,India,operating,3.06,exact
+P100000124127,cement,Sree Jayajothi Cements Yanakandla Cement Plant,15.364101,78.219484,India,operating,3.2,exact
+P100000124128,cement,Sri Chakra Cement Guntur Cement Plant,16.380772,79.723973,India,operating,0.31,exact
+P100000124129,cement,Sri Lalita Cement Industries Nalgonda Cement Plant,16.734616,79.881588,India,operating,1.0,exact
+P100000124130,cement,Star Cement East Jaintia Hills Cement Plant,25.177887,92.390338,India,operating,2.8,exact
+P100000124131,cement,Tamilnadu Cements Corporation Alangalum Cement Plant,9.374599,77.678857,India,operating,0.4,exact
+P100000124132,cement,Tata Chemicals Mithapur Cement Plant,22.400932,69.020015,India,operating,0.5,exact
+P100000124133,cement,Toshali Cements Ampaballi Cement Plant,18.407977,82.973488,India,operating,0.6,exact
+P100000124134,cement,Udaipur Cement Works Udaipur Cement Plant,24.657581,73.8752,India,operating,4.7,exact
+P100000124135,cement,Wonder Cement Phachar Aheeran Cement Plant,24.661883,74.632446,India,operating,21.5,exact
+P100000124136,cement,Sanghi Industries Kutch Cement Plant,23.383686,68.569134,India,operating,,exact
+P100000124137,cement,UltraTech Cement Vilemar Kundi Cement Plant,24.44605,83.075826,India,operating,2.01,exact
+P100000124139,cement,Alcon Cement Company Surla Cement Plant,15.49227,74.026419,India,operating,0.18,exact
+P100000124140,cement,Andhra Cements Visakhapatnam Cement Plant,17.763951,83.194711,India,operating,0.54,exact
+P100000124141,cement,UltraTech Cement Neem Ka Thana Cement Plant,27.693977,75.728868,India,operating,2.2,exact
+P100000124142,cement,ACC Visakhapatnam Cement Plant,17.709591,83.154501,India,operating,0.3,exact
+P100000124143,cement,HeidelbergCement India Imlai Cement Plant,23.863185,79.426251,India,operating,2.0,exact
+P100000124144,cement,Bhilai Jaypee Cement Bhilai Cement Plant,21.184966,81.361747,India,operating,2.2,exact
+P100000124145,cement,Jaypee Cement Corp Chunar Cement Plant,25.087704,82.902584,India,mothballed,2.5,exact
+P100000124146,cement,Jaypee Cement Corp Prayagraj Cement Plant,25.229553,81.781506,India,mothballed,0.6,exact
+P100000124147,cement,Rashmi Cement Jhargram Cement Plant,22.392435,87.015888,India,operating,2.0,exact
+P100000124148,cement,Sri Chakra Cement Annamarajupet Cement Plant,18.017317,83.275178,India,operating,0.26,exact
+P100000124149,cement,Travancore Cements Kottayam Cement Plant,9.559566,76.510421,India,operating,0.08,exact
+P100000124150,cement,Ambuja Cements Moha Cement Plant,18.992068,73.030851,India,operating,,exact
+P100000124151,cement,Mangalam Cement Chherat Cement Plant,27.960795,78.08159,India,operating,1.95,exact
+P100000124152,cement,ACC Nalagarh Cement Plant,31.037155,76.629773,India,operating,1.3,exact
+P100000124153,cement,Burnpur Cement Asansol Cement Plant,23.699805,86.916351,India,operating,0.37,exact
+P100000124154,cement,Jaypee Cement Corp Shahabad Rural Cement Plant,17.136362,76.945424,India,operating,1.2,exact
+P100000124155,cement,M/s Satguru Cement Jeerabad Cement Plant,22.419728,75.069761,India,operating,0.95,exact
+P100000124158,cement,Mawmluh-Cherra Cements Cherrapunji‎ Cement Plant,25.26056,91.710717,India,retired,0.17,exact
+P100000124473,cement,UltraTech Cement Dhule Cement Plant,21.152727,74.850639,India,operating,1.8,exact
+P100000124489,cement,ACC Kharagpur Cement Plant,22.32771,87.280232,India,announced,1.5,approximate
+P100000124505,cement,Atibal Cement Hatigaon Cement Plant,26.533147,92.932658,India,operating,1.0,exact
+P100000124506,cement,Ambuja Cements Marwar Mundwa Cement Plant,27.080518,73.817206,India,operating,2.4,exact
+P100000124507,cement,Asian Fine Cements Rajpura Cement Plant,30.423781,76.716928,India,operating,1.5,exact
+P100000124508,cement,Bharat Cements Purulia Cement Plant,23.345568,86.380854,India,operating,0.45,exact
+P100000124509,cement,Chettinad Cement Corporation Dachepalli Cement Plant,16.546133,79.757446,India,operating,2.1,exact
+P100000124510,cement,Chettinad Cement Corporation Kasimkota Mandal Cement Plant,17.620945,82.89193,India,operating,2.0,exact
+P100000124511,cement,Dalmia Banjari Cement Plant,24.67038,83.989092,India,operating,1.6,exact
+P100000124512,cement,Dalmia Bharat Green Vision Sattur Taluk Cement Plant,9.272589,77.920648,India,operating,2.0,exact
+P100000124513,cement,Jagdamba Industries Durgapur Cement Plant,23.559664,87.260153,India,operating,0.18,exact
+P100000124514,cement,Duratech Cements India Samastipur Cement Plant,25.868345,85.64737,India,operating,0.8,exact
+P100000124515,cement,Hemadri Cements Jaggayyapet Mandal Cement Plant,16.811331,80.14806,India,operating,0.66,exact
+P100000124516,cement,Hi-Bond Cement (India) Patidad Cement Plant,21.912175,70.705341,India,operating,3.2,exact
+P100000124518,cement,Jindal Steel & Power Raigarh Cement Plant,21.911097,83.338243,India,operating,1.0,exact
+P100000124521,cement,Kakatiya Cement Sugar & Industries Dondapadu Cement Plant,17.186706,80.564986,India,mothballed,0.3,exact
+P100000124522,cement,JK Cement Katni Cement Plant,23.728502,80.555397,India,operating,2.0,exact
+P100000124524,cement,JK Cement Panna Cement Plant,24.327843,79.964314,India,operating,2.0,exact
+P100000124525,cement,Kamdhenu Cement Sabhapur Cement Plant,28.749911,77.24196,India,operating,1.5,approximate
+P100000124526,cement,JK Cement Bara Cement Plant,25.200427,81.568158,India,construction,2.5,exact
+P100000124527,cement,JK Lakshmi Cement Cuttack Cement Plant,20.535071,85.739078,India,operating,0.8,exact
+P100000124528,cement,JSW Cement Jajpur Cement Plant,20.95429,86.038945,India,operating,1.5,exact
+P100000124529,cement,Kanodia Cement Amethi Cement Plant,26.070363,82.022032,India,operating,1.5,approximate
+P100000124530,cement,Kanodia Cement Bhabua Cement Plant,25.213969,83.444889,India,operating,1.2,exact
+P100000124531,cement,Kanodia Cement Bulandshahar Cement Plant,28.416154,77.8281,India,operating,1.5,approximate
+P100000124532,cement,Kanodia Cement Sikandrabad Cement Plant,28.492139,77.657659,India,operating,1.6,exact
+P100000124534,cement,Srikalahasthi Pipes Rachagunneri Cement Plant,13.716239,79.627275,India,operating,0.09,exact
+P100000124535,cement,Powercon Cement Chandauli Cement Plant,25.243225,83.072438,India,operating,0.18,exact
+P100000124536,cement,Purbanchal Cement Sarutari Cement Plant,26.06127,91.883283,India,operating,0.73,exact
+P100000124537,cement,RCCPL Maihar Cement Plant,24.169434,80.694219,India,operating,5.0,exact
+P100000124538,cement,RCCPL Mukutban Cement Plant,19.800621,78.866069,India,operating,3.9,exact
+P100000124539,cement,RNB Cements Umiam Cement Plant,25.663833,91.911042,India,operating,0.44,exact
+P100000124540,cement,Sagar Cements Jeerabad Cement Plant,22.386686,75.074987,India,operating,1.5,exact
+P100000124541,cement,Shiva Cement Kutra Cement Plant,22.228248,84.414682,India,operating,,exact
+P100000124544,cement,Shree Cement Nawalgarh Cement Plant,27.792137,75.335504,India,operating,3.5,exact
+P100000124626,cement,Star Cement Guwahati Cement Plant,26.132494,92.003628,India,operating,2.0,exact
+P100000124627,cement,Star Cement Siliguri Cement Plant,26.527049,88.675118,India,operating,2.0,exact
+P100000124628,cement,Tamilnadu Cements Corporation Ariyalur 1 Cement Plant,11.146109,79.098187,India,operating,1.63,exact
+P100000124629,cement,Tamilnadu Cements Corporation Ariyalur 2 Cement Plant,11.146109,79.098187,India,operating,1.0,exact
+P100000124631,cement,RamCements Haridaspur Cement Plant,20.740526,86.116996,India,operating,1.8,exact
+P100000124632,cement,Ramco Cements Kalavatala Cement Plant,15.080142,78.13854,India,operating,2.4,exact
+P100000124634,cement,Trumboo Cement Industries Wuyan Cement Plant,34.053687,74.974065,India,operating,0.37,exact
+P100000124635,cement,UltraTech Cement Bara Cement Plant,25.195499,81.64584,India,operating,2.0,exact
+P100000124636,cement,UltraTech Cement Cuttack Cement Plant,20.568733,85.778679,India,operating,3.0,exact
+P100000124637,cement,UltraTech Cement Pali Cement Plant,26.258739,74.094808,India,operating,3.3,exact
+P100000124638,cement,Vadraj Cement Hazira Cement Plant,21.170667,72.693937,India,operating,6.0,exact
+P100000124639,cement,Vadraj Cement Kutch Cement Plant,23.417165,68.63249,India,operating,,exact
+P100000124640,cement,Wonder Cement Alligarh Cement Plant,28.058768,77.946897,India,operating,2.5,approximate
+P100000124641,cement,Wonder Cement Badnawar Cement Plant,23.051885,75.252655,India,operating,2.0,exact
+P100000124722,cement,Wonder Cement Dhule Cement Plant,21.171028,74.851102,India,operating,2.0,exact
+P100000124723,cement,Wonder Cement Jhajjar Cement Plant,28.477107,76.407029,India,operating,2.0,exact
+P100000125197,cement,RCCPL Chopal Cement Plant,30.946545,77.592561,India,announced,4.0,approximate
+P100000125198,cement,Cement Corporation of India Charkhi Dadri Cement Plant,28.602677,76.282674,India,mothballed,0.17,exact
+P100000125199,cement,Cement Corporation of India Mandhar Cement Plant,21.340622,81.718617,India,mothballed,0.38,exact
+P100000125200,cement,Cement Corporation of India Adilabad Cement Plant,19.688702,78.556119,India,mothballed,0.4,exact
+P100000125201,cement,Cement Corporation of India Delhi Cement Plant,28.557455,77.300757,India,mothballed,0.5,approximate
+P100000125202,cement,Tamil Nadu Newsprint & Papers Kagithapuram Cement Plant,11.036461,78.008759,India,operating,0.33,exact
+P100000125203,cement,Vijay Cements Puthanampatti Cement Plant,11.045572,78.708905,India,operating,0.11,exact
+P100000125204,cement,Jeppiaar Cements Alathur Cement Plant,11.187666,79.052698,India,operating,0.16,exact
+P100000125205,cement,JK Cement Balasinor Cement Plant,22.939341,73.305833,India,operating,0.7,exact
+P100000125206,cement,JK Cement Aligarh Cement Plant,27.982626,78.115841,India,operating,2.0,exact
+P100000125208,cement,JK Cement Ujjain Cement Plant,23.259992,75.72533,India,operating,2.0,exact
+P100000125209,cement,JK Cement Prayagraj Cement Plant,25.448332,81.810334,India,operating,3.0,approximate
+P100000125211,cement,NU Vista Dachepalli Cement Plant,16.653925,79.806457,India,announced,4.25,exact
+P100000125213,cement,Sagar Cements Jajpur Cement Plant,20.930587,86.037334,India,operating,1.5,exact
+P100000125214,cement,Shree Cement Cuttack Cement Plant,20.531066,85.724538,India,operating,3.0,exact
+P100000125215,cement,Shree Cement Guntur Cement Plant,16.519321,79.731654,India,operating,3.0,exact
+P100000125216,cement,Shree Cement Patas Cement Plant,18.473183,74.456715,India,operating,3.0,exact
+P100000125217,cement,Shree Cement Purulia Cement Plant,23.632621,86.795083,India,operating,3.0,exact
+P100000125218,cement,Adani Cement Industries Dahej Cement Plant,21.69722,72.575041,India,operating,1.3,exact
+P100000125221,cement,Adani Cementation Lakhpat Cement Plant,23.695824,68.585522,India,cancelled,10.0,approximate
+P100000126001,cement,Ambuja Cements Warisaliganj Cement Plant,25.005702,85.642152,India,construction,6.0,exact
+P100000126783,cement,UltraTech Cement Velliyanai Cement Plant,10.805317,78.113993,India,operating,3.3,exact
+P100000126784,cement,Shree Cement Nigoh Hasanpur Cement Plant,27.494932,78.814881,India,operating,3.0,exact
+P100000126785,cement,Birla Corporation Gaya Cement Plant,24.789471,84.998303,India,announced,2.8,approximate
+P100000126786,cement,JSW Cement Karamgarh Urf Autanwali Cement Plant,29.951306,75.263744,India,announced,6.0,exact
+P100000126793,cement,JK Cement Bikaner Cement Plant,28.020515,73.31128,India,construction,2.0,approximate
+P100000126794,cement,JK Cement Bathinda Cement Plant,30.214549,74.947528,India,construction,2.0,approximate
+P100000126795,cement,JSW Cement Nagaur 2 Cement Plant,27.29307,73.845517,India,construction,1.0,approximate
+P100000126796,cement,RLJ Cement Mirzapur Cement Plant,25.077327,82.869225,India,operating,0.5,exact
+P100000126797,cement,Dalmia Cement (Bharat) Pune Cement Plant,18.491995,73.868164,India,announced,3.0,approximate
+P100000126798,cement,Shiva Cement Sambalpur Cement Plant,21.479019,83.979749,India,operating,1.0,exact
+P100000126804,cement,Dalmia Cement (Bharat) Umrangso Cement Plant,25.524835,92.79809,India,operating,,exact
+P100000126805,cement,NCL Industries Thallapalem Cement Plant,17.626754,82.890202,India,operating,0.66,exact
+P100000127201,cement,Topcem India Amingaon Cement Plant,26.218366,91.70165,India,operating,1.68,exact
+P100000127202,cement,Dhandapani Cements Thathamangalam Cement Plant,10.945241,78.732379,India,operating,0.33,exact
+P100000127203,cement,JK Cement Jaisalmer Cement Plant,27.273664,70.806447,India,construction,6.0,exact
+P100000127204,cement,JK Cement Buxar Cement Plant,25.568767,84.329112,India,operating,3.0,exact
+P100000127205,cement,Toshali Cements Cuttack Cement Plant,20.520089,85.870884,India,operating,0.44,exact
+P100000127208,cement,Ambuja Cements Motia Cement Plant,24.823582,87.134777,India,announced,4.0,approximate
+P100000127209,cement,ACC Salai Banwa Cement Plant,24.435104,83.012897,India,construction,2.4,exact
+P100000127210,cement,Ambuja Cements Mundra Cement Plant,22.775415,69.694873,India,announced,4.8,approximate
+P100000127211,cement,JSW Cement Nagaur 1 Cement Plant,27.29307,73.845516,India,operating,2.5,approximate
+P100000127212,cement,UltraTech Cement Patratu Cement Plant,23.620478,85.274431,India,operating,0.54,exact
+P100000127213,cement,Wonder Cement Tulsigam Cement Plant,22.765418,73.38674,India,construction,2.0,exact
+P100000127214,cement,Ambuja Cements Odisha Cement Plant,20.521112,86.05256,India,announced,4.0,approximate
+P100000127509,cement,Shiva Cement Sundergarh Cement Plant,22.228135,84.415056,India,operating,1.32,exact
+L100000102031,coal_power,Ankulapatur power station,14.138344,79.990881,India,cancelled,485.0,exact
+L100000102032,coal_power,Balaji Cement power station,16.8704884,80.0220166,India,operating,35.0,exact
+L100000102033,coal_power,Bander power station,14.351195,80.143086,India,operating,1980.0,exact
+L100000102034,coal_power,Bhavanapadu Thermal Power Project,18.521385,84.239312,India,cancelled,2640.0,exact
+L100000102035,coal_power,Budele power station,14.670709,77.590744,India,cancelled,1000.0,approximate
+L100000102036,coal_power,Devarampadu power station,15.5,80.05,India,cancelled,1320.0,approximate
+L100000102037,coal_power,Dharmavaram power station,14.413745,77.712619,India,cancelled,150.0,approximate
+L100000102038,coal_power,Dr. Narla Tata Rao Thermal power station,16.5984901,80.5365853,India,operating,2560.0,exact
+L100000102039,coal_power,Dr. RKP Power Ankulapatur power station,14.130902,79.864683,India,cancelled,420.0,approximate
+L100000102040,coal_power,East Godavari Mill power station,17.029896,81.772481,India,operating,34.0,exact
+L100000102041,coal_power,Gopuvanipalam Mega Thermal Power Project,16.18438,81.134933,India,cancelled,1980.0,approximate
+L100000102042,coal_power,Gudur Thermal Power Project (Momidi),14.130902,79.864683,India,cancelled,2640.0,approximate
+L100000102043,coal_power,Gunipudi power station (NBPL proposal),17.300117,82.614386,India,cancelled,300.0,approximate
+L100000102044,coal_power,Gunipudi power station (STEAPL proposal),17.300117,82.624386,India,cancelled,1320.0,approximate
+L100000102045,coal_power,Jharupudi power station,18.3,83.9,India,cancelled,140.0,approximate
+L100000102047,coal_power,Kineta Power thermal station,14.166667,80.083333,India,cancelled,1980.0,exact
+L100000102048,coal_power,Komarada power station,18.89626,83.468899,India,cancelled,2640.0,approximate
+L100000102049,coal_power,Krishnapatnam Navayuga thermal station,14.194444,80.091667,India,cancelled,1980.0,exact
+L100000102050,coal_power,Krishnapatnam Ultra Mega Power Project,14.252061,80.120748,India,cancelled,4000.0,exact
+L100000102051,coal_power,Lovapalem power station,17.466444,82.961361,India,cancelled,1000.0,approximate
+L100000102052,coal_power,Makavarapalem Smelter power station,17.5939558,82.743769,India,operating,90.0,exact
+L100000102053,coal_power,Meenakshi Energy Thermal Power Project,14.211195,80.090062,India,operating,1000.0,exact
+L100000102054,coal_power,Meghavaram Kakarapalli power station,17.484945,82.494903,India,cancelled,450.0,approximate
+L100000102055,coal_power,Muthukur Mandal power station (Painampuram),14.351195,80.143086,India,operating,1320.0,exact
+L100000102056,coal_power,Nagarjuna Construction Company Sompeta Thermal Plant,18.9374,84.590157,India,cancelled,2640.0,approximate
+L100000102057,coal_power,Nakkapalli power station,17.409651,82.714788,India,cancelled,1320.0,approximate
+L100000102058,coal_power,Nayunipalli Ultra Mega Power Project,15.038056,78.8675,India,cancelled,4000.0,approximate
+L100000102059,coal_power,Nellore power station,14.490572,79.986949,India,operating,30.0,exact
+L100000102060,coal_power,Ontimavadi power station,16.945181,82.238647,India,cancelled,6300.0,approximate
+L100000102061,coal_power,Peddaganjam power station (Sew),15.7,80.25,India,cancelled,1320.0,approximate
+L100000102062,coal_power,Peddaganjam power station (Sravanthi),15.7,80.25,India,cancelled,1400.0,approximate
+L100000102063,coal_power,Pentakota power station (Namratha Bizili),17.300117,82.614386,India,cancelled,150.0,approximate
+L100000102064,coal_power,Pentakota power station (Srinivasam Energy),17.300117,82.614386,India,cancelled,1320.0,approximate
+L100000102065,coal_power,Pudimadaka Ultra Mega Power Project,17.492713,83.002767,India,cancelled,4000.0,approximate
+L100000102066,coal_power,Rayalaseema Thermal Power Project,14.697282,78.459364,India,operating,1650.0,exact
+L100000102067,coal_power,Saggonda power station,17.1779964,81.6113929,India,operating,33.0,exact
+L100000102068,coal_power,Simhadri power station,17.591,83.09166,India,operating,3320.0,exact
+L100000102069,coal_power,Sompeta power station (Suryachakra),18.93742,84.590157,India,cancelled,1200.0,approximate
+L100000102070,coal_power,Sree Siva Satyadeva Power Plant,18.3,83.9,India,cancelled,2000.0,approximate
+L100000102071,coal_power,Sri Damodaram Sanjeevaiah Thermal Power Station,14.327604,80.122105,India,operating,2400.0,exact
+L100000102072,coal_power,Srikakulam Thermal Power Station (Sumitomo),18.3667,84.1,India,cancelled,4000.0,approximate
+L100000102073,coal_power,Simhapuri Thamminapatnam power station,14.204576,80.086636,India,operating,1920.0,exact
+L100000102074,coal_power,Uppada power station,17.0587,82.3097,India,cancelled,1670.0,exact
+L100000102075,coal_power,Vadarevu Ultra Mega Power Project,15.808028,80.397348,India,cancelled,4000.0,approximate
+L100000102076,coal_power,Vemavaram power station,16.317475,81.096252,India,cancelled,1320.0,approximate
+L100000102077,coal_power,Vijayawada Thermal Power Station (IGCC),16.5973,80.5382,India,cancelled,182.0,exact
+L100000102078,coal_power,Vikas Power thermal plant,14.288601,80.124848,India,cancelled,540.0,approximate
+L100000102079,coal_power,Visakhapatnam Sarda power station,17.7202459,83.2717317,India,operating,84.0,exact
+L100000102080,coal_power,Vizag Kaizen power station,17.563642,83.138877,India,cancelled,300.0,approximate
+L100000102081,coal_power,Vizag Simhadri power station,17.636926,83.193133,India,operating,50.0,exact
+L100000102082,coal_power,Vizag Steel Plant power station,17.606547,83.196713,India,operating,315.0,exact
+L100000102083,coal_power,Vizag Thermal Power Plant,17.563642,83.138877,India,operating,1040.0,exact
+L100000102084,coal_power,West Godavari Super Thermal Power Station,17.409651,82.714788,India,cancelled,3960.0,approximate
+L100000102085,coal_power,Bongaigaon power station,26.44437,90.367205,India,operating,1000.0,exact
+L100000102086,coal_power,Borgolai power station,27.303147,95.442638,India,cancelled,250.0,approximate
+L100000102087,coal_power,Margherita power station,27.489464,95.360144,India,cancelled,660.0,approximate
+L100000102088,coal_power,Naitor power station,26.183333,91.733333,India,cancelled,1320.0,approximate
+L100000102089,coal_power,Banka Power Project,24.714049,86.958329,India,cancelled,2640.0,exact
+L100000102090,coal_power,Barauni power station,25.391376,86.023488,India,operating,1520.0,exact
+L100000102092,coal_power,Barh I power station,25.4865,85.74516,India,operating,1980.0,exact
+L100000102093,coal_power,Barh II power station,25.4865,85.74516,India,operating,1320.0,exact
+L100000102094,coal_power,Bhagalpur Power Project,25.26354,87.234444,India,cancelled,2640.0,approximate
+L100000102095,coal_power,Buxar Thermal Power Station,25.462349,83.882568,India,operating,2120.0,exact
+L100000102096,coal_power,Casecade Power Lakhisarai power station,24.75,85.0,India,cancelled,1320.0,approximate
+L100000102097,coal_power,Dona power station,24.83,85.42,India,cancelled,1320.0,approximate
+L100000102098,coal_power,Era Infra Engineering Pirpainti power station,25.323652,87.428188,India,cancelled,1320.0,approximate
+L100000102099,coal_power,Indragacchi power station,26.500702,84.684087,India,cancelled,1320.0,approximate
+L100000102100,coal_power,Jagdishpur power station,25.462469,84.416183,India,cancelled,2640.0,approximate
+L100000102101,coal_power,Kahalgaon power station (Cement Manufacturing Co.),25.26354,87.234444,India,cancelled,500.0,approximate
+L100000102102,coal_power,Kahalgaon power station (East-West Power),25.26354,87.234444,India,cancelled,1000.0,approximate
+L100000102103,coal_power,Kahalgaon power station (Sarvottam),25.26354,87.234444,India,cancelled,540.0,approximate
+L100000102104,coal_power,Kahalgaon Super Thermal Power Plant,25.236903,87.265595,India,operating,3140.0,exact
+L100000102105,coal_power,Bihar Ultra Mega Power Project,24.833324,86.874819,India,cancelled,4000.0,approximate
+L100000102106,coal_power,Kiul Thermal Power Project,25.146576,86.096278,India,cancelled,1320.0,approximate
+L100000102107,coal_power,Kochar power station,24.74839,84.376663,India,cancelled,1320.0,approximate
+L100000102108,coal_power,Lakhisarai power station (SPML),25.184746,86.149693,India,cancelled,1200.0,approximate
+L100000102109,coal_power,Lakhisarai Thermal Power Station,25.18036,86.25903,India,cancelled,1320.0,approximate
+L100000102110,coal_power,Meherpur power station,25.323652,87.428188,India,cancelled,1200.0,approximate
+L100000102111,coal_power,Moma power station,25.17,86.09,India,cancelled,1980.0,approximate
+L100000102112,coal_power,Muzaffarpur power station,26.194771,85.303302,India,operating,610.0,exact
+L100000102113,coal_power,Nabinagar Super Thermal Power Project,24.776,84.158025,India,operating,4380.0,exact
+L100000102114,coal_power,Nabinagar Thermal Power Project,24.705081,84.088738,India,operating,1000.0,exact
+L100000102115,coal_power,Pirpainti power station (CESC),25.323652,87.428188,India,cancelled,2000.0,approximate
+L100000102116,coal_power,Pirpainti power station (Essar),25.323652,87.428188,India,cancelled,1800.0,approximate
+L100000102117,coal_power,Pirpainti Thermal Power Station,25.307395,87.412455,India,permitted,2400.0,approximate
+L100000102118,coal_power,Prabhawati Nagar power station,24.87608,86.947425,India,cancelled,1320.0,approximate
+L100000102119,coal_power,Rajauli power station,24.65,85.5,India,cancelled,2640.0,approximate
+L100000102120,coal_power,Sirdala power station,24.87995,85.53,India,cancelled,2640.0,approximate
+L100000102121,coal_power,Adani Raigarh Thermal Power Plant,21.743775,83.274093,India,operating,3800.0,exact
+L100000102122,coal_power,Amoda power station,21.848753,82.652278,India,cancelled,600.0,approximate
+L100000102123,coal_power,Arasmeta Cement Plant power station,21.9622663,82.3544027,India,operating,86.0,exact
+L100000102124,coal_power,Athena Chhattisgarh power station,21.906765,83.129001,India,operating,1200.0,exact
+L100000102125,coal_power,BALCO Korba power station,22.3930944,82.7439443,India,operating,2010.0,exact
+L100000102126,coal_power,Balpur power station,22.045391,82.647886,India,cancelled,1200.0,approximate
+L100000102127,coal_power,Baradarha power station,21.911436,83.188863,India,operating,1200.0,exact
+L100000102128,coal_power,Bhaiso power station,21.87841,82.451637,India,cancelled,1200.0,approximate
+L100000102129,coal_power,Bhaiyathan Thermal Power Project,23.343798,83.196042,India,cancelled,1320.0,approximate
+L100000102130,coal_power,Bhandhakhar power station,22.340954,82.430603,India,operating,300.0,exact
+L100000102131,coal_power,Bhengari power station,22.141667,83.243889,India,cancelled,540.0,approximate
+L100000102132,coal_power,Bhilai Steel power station,21.184,81.4237,India,operating,1560.0,exact
+L100000102133,coal_power,Binjkote power station,22.010422,83.205779,India,operating,1200.0,exact
+L100000102134,coal_power,Birra Thermal Power Project,21.756471,82.782962,India,cancelled,1320.0,approximate
+L100000102135,coal_power,BLA Chhattisgarh power station,22.172721,83.353397,India,cancelled,540.0,approximate
+L100000102136,coal_power,Bunji Bundeli Thermal Power Project,23.652072,82.048187,India,cancelled,500.0,approximate
+L100000102137,coal_power,Chakabura power station,22.393653,82.553249,India,operating,60.0,exact
+L100000102138,coal_power,Champa Adhunik power station,22.03,82.97,India,cancelled,1320.0,approximate
+L100000102139,coal_power,Champa Power Project,22.270035,82.614098,India,cancelled,1200.0,approximate
+L100000102140,coal_power,Dhanras power station,22.5,82.55,India,cancelled,1050.0,approximate
+L100000102141,coal_power,Dhardai power station,21.878943,82.451606,India,cancelled,1200.0,approximate
+L100000102142,coal_power,Dongamahua Captive Power Plant,22.1279449,83.5359192,India,operating,840.0,exact
+L100000102143,coal_power,Dr. Shyama Prasad Mukherjee Thermal Power Station,22.368196,82.721986,India,operating,500.0,exact
+L100000102144,coal_power,Gare Pelma power station,22.1525,83.352778,India,cancelled,2640.0,exact
+L100000102145,coal_power,Godhna power station,21.826445,82.604828,India,pre-permit,2400.0,approximate
+L100000102146,coal_power,Gorra Thermal Power Plant,21.89304,83.393583,India,cancelled,540.0,approximate
+L100000102147,coal_power,Hamirpur power station,22.393333,83.521944,India,cancelled,600.0,exact
+L100000102148,coal_power,Hasdeo Thermal Power Station,22.412536,82.682187,India,operating,2660.0,exact
+L100000102149,coal_power,Hathneora Captive Power Plant,22.003538,82.6689,India,operating,662.5,exact
+L100000102150,coal_power,IFFCO-CSPGCL Thermal Power Project,22.920278,82.776944,India,cancelled,1320.0,exact
+L100000102151,coal_power,Jagdalpur Steel captive power station,19.093632,82.169194,India,cancelled,250.0,approximate
+L100000102152,coal_power,Kasaipalli power station,22.38895,82.5549,India,operating,270.0,exact
+L100000102153,coal_power,Katghora power station,22.489779,82.60618,India,operating,35.0,exact
+L100000102154,coal_power,Khamhar power station,21.92771,83.339957,India,cancelled,1440.0,exact
+L100000102155,coal_power,Korba Essar power station,22.35,82.683,India,cancelled,1000.0,approximate
+L100000102156,coal_power,Korba South Thermal Power Project,22.367321,82.760328,India,cancelled,1000.0,approximate
+L100000102157,coal_power,Korba Super Thermal Power Station (NTPC),22.3874221,82.6818961,India,operating,2600.0,exact
+L100000102158,coal_power,Korba Thermal power station,22.383369,82.719496,India,retired,440.0,exact
+L100000102159,coal_power,KSK Mahanadi Power Project,21.960296,82.409064,India,operating,3600.0,exact
+L100000102160,coal_power,KSK Narmada Power Project,22.749905,82.572849,India,cancelled,1800.0,approximate
+L100000102161,coal_power,Kukurda power station,21.8475,83.54,India,cancelled,1320.0,approximate
+L100000102162,coal_power,Korba Power Thermal Power Plant (Adani),22.2454,82.7246,India,operating,3520.0,exact
+L100000102164,coal_power,Lara Integrated Thermal Power Project,21.757661,83.457545,India,operating,5600.0,exact
+L100000102165,coal_power,Marwa power station,22.070801,82.602189,India,operating,1000.0,exact
+L100000102166,coal_power,Moser Baer Captive Power Project,21.993352,82.615414,India,cancelled,150.0,approximate
+L100000102167,coal_power,Raigarh Ind Power power station,21.871813,83.4973385,India,operating,65.0,exact
+L100000102168,coal_power,Raigarh Jindal power station,21.924951,83.345444,India,operating,240.0,exact
+L100000102169,coal_power,Raigarh TRN Power Project,21.906738,83.128556,India,operating,600.0,exact
+L100000102170,coal_power,Raigarh Project (Jindal),21.898611,83.464722,India,cancelled,1320.0,approximate
+L100000102171,coal_power,Raigarh project (VISA Power),21.919374,83.279114,India,cancelled,1200.0,exact
+L100000102172,coal_power,JSW Ispat Raigarh power station,21.987781,83.231306,India,operating,224.0,exact
+L100000102173,coal_power,Raikheda power station,21.449918,81.852474,India,operating,4570.0,exact
+L100000102174,coal_power,Raipur Jain power station,21.311968,81.6131832,India,operating,45.0,exact
+L100000102175,coal_power,Raipur Neco power station,21.3437612,81.672524,India,operating,55.0,exact
+L100000102176,coal_power,Raipur Sponge Iron power station,21.987781,83.231306,India,operating,37.5,exact
+L100000102177,coal_power,Ratija Power Project,22.339994,82.492776,India,operating,100.0,exact
+L100000102178,coal_power,Rawan Cement power station,24.764914,74.609613,India,operating,30.0,exact
+L100000102179,coal_power,Salora power station,22.489952,82.606239,India,operating,1860.0,exact
+L100000102180,coal_power,Sapnai power station,21.865163,83.531256,India,cancelled,1260.0,approximate
+L100000102181,coal_power,Sapos power station (BEC Power),21.753253,83.16892,India,cancelled,500.0,approximate
+L100000102182,coal_power,Sapos power station (Suryachakra),21.756311,83.167477,India,cancelled,1320.0,approximate
+L100000102183,coal_power,Siltara SKS power station,21.391385,81.646357,India,operating,30.0,exact
+L100000102184,coal_power,Siltara Works power station,21.3732303,81.6844096,India,operating,30.0,exact
+L100000102185,coal_power,Sipat power station,22.131662,82.29035,India,operating,3780.0,exact
+L100000102186,coal_power,Surguja power station,23.12,83.2,India,cancelled,600.0,approximate
+L100000102187,coal_power,Surguja Ultra Mega Power Project,23.453168,83.417587,India,cancelled,4000.0,approximate
+L100000102188,coal_power,SVPL power station,22.292,82.5254,India,operating,363.0,exact
+L100000102189,coal_power,Tamnar power station,22.098747,83.451312,India,operating,3400.0,exact
+L100000102190,coal_power,Uchpinda power station,21.8864,83.12081,India,operating,1440.0,exact
+L100000102191,coal_power,Badarpur power station,28.505394,77.307406,India,retired,705.0,exact
+L100000102192,coal_power,Rajghat power station,28.635832,77.254184,India,retired,135.0,exact
+L100000102193,coal_power,Akrimota Power Project,23.7724998,68.6455556,India,operating,500.0,exact
+L100000102194,coal_power,Ambujanagar Cement Plant power station,20.835455,70.69554,India,operating,90.0,exact
+L100000102195,coal_power,Amreli power station,21.602871,71.21817,India,cancelled,1320.0,approximate
+L100000102196,coal_power,Bhadreshwar Thermal Power Project (Adani),22.909409,69.899944,India,cancelled,3300.0,approximate
+L100000102197,coal_power,Bhadreshwar power station (OPG),22.896182,69.896263,India,operating,300.0,exact
+L100000102198,coal_power,Bhatvadia power station,22.467,70.067,India,cancelled,3960.0,exact
+L100000102199,coal_power,Bhavnagar power station,21.583152,72.222179,India,operating,500.0,exact
+L100000102200,coal_power,Bherai power station,20.971759,71.482995,India,cancelled,1320.0,approximate
+L100000102202,coal_power,Birla Jamnagar power station,22.57809,70.277363,India,cancelled,1320.0,approximate
+L100000102203,coal_power,Dahej Thermal Power Project,21.697468,72.592506,India,cancelled,3200.0,approximate
+L100000102204,coal_power,Dholera Power Plant,22.248,72.195,India,cancelled,1600.0,approximate
+L100000102206,coal_power,Dhuvaran Super Thermal Power Project,22.233007,72.757241,India,cancelled,1600.0,exact
+L100000102207,coal_power,Gandhinagar Thermal Power Station,23.249722,72.673889,India,operating,1670.0,exact
+L100000102209,coal_power,Gujarat Power Project,21.573757,73.168617,India,cancelled,500.0,approximate
+L100000102210,coal_power,Hazira power station (Essar),21.119078,72.640545,India,operating,270.0,exact
+L100000102211,coal_power,Jafrabad power station,20.8667,71.3667,India,cancelled,1320.0,approximate
+L100000102212,coal_power,Kaj/Nanavada power station,20.75,70.8167,India,cancelled,1320.0,approximate
+L100000102213,coal_power,Kutch GSECL power station,23.663934,68.784128,India,operating,290.0,exact
+L100000102214,coal_power,Kutch Welspun power station,23.1175,70.0822,India,operating,123.0,exact
+L100000102215,coal_power,Lunsapur power station,20.8667,71.3667,India,cancelled,1320.0,approximate
+L100000102216,coal_power,Mota Layja power station,22.86,69.39,India,cancelled,3960.0,approximate
+L100000102217,coal_power,Mundra Thermal Power Project (Adani),22.8235596,69.5511094,India,operating,7620.0,exact
+L100000102218,coal_power,Nana Madha power station,22.2,69.65,India,cancelled,600.0,approximate
+L100000102219,coal_power,Okha power station,22.464918,69.0702,India,cancelled,2560.0,approximate
+L100000102220,coal_power,Paguthan power station,21.78,72.979,India,cancelled,2000.0,exact
+L100000102221,coal_power,Pipavav power station,21.05,71.43,India,cancelled,2520.0,approximate
+L100000102222,coal_power,Pipavav Videocon power station,21.05,71.43,India,cancelled,1200.0,approximate
+L100000102223,coal_power,Sabarmati power station,23.070555,72.593889,India,operating,422.0,exact
+L100000102224,coal_power,Salaya power plant,22.3049,69.7101,India,operating,4720.0,exact
+L100000102225,coal_power,Sikka Thermal Power Station,22.420828,69.8276,India,operating,1540.0,exact
+L100000102226,coal_power,Simar power station,21.012822,70.272828,India,cancelled,1600.0,approximate
+L100000102227,coal_power,Sinor power station,22.0,73.3,India,cancelled,1600.0,approximate
+L100000102228,coal_power,Surat Lignite Power Plant,21.397304,73.106993,India,operating,1100.0,exact
+L100000102229,coal_power,Suryachakra captive power plant,23.216667,72.683333,India,cancelled,200.0,approximate
+L100000102230,coal_power,Tata Mundra Ultra Mega Power Project,22.8158,69.5281,India,operating,5660.0,exact
+L100000102231,coal_power,Ukai Thermal Power Station,21.2093,73.5574,India,operating,2950.0,exact
+L100000102232,coal_power,Vilayat Caustic power station,21.7777531,72.9024971,India,operating,90.0,exact
+L100000102233,coal_power,Wanakbori Thermal Power Station,22.8725375,73.3588028,India,operating,2270.0,exact
+L100000102234,coal_power,Deenbandhu Chhotu Ram Thermal Power Plant,30.1075175,77.3267646,India,operating,1400.0,exact
+L100000102236,coal_power,Faridabad power station,28.374443,77.305482,India,retired,165.0,exact
+L100000102237,coal_power,Indira Gandhi Super Thermal Power Project,28.485091,76.37316,India,operating,2820.0,exact
+L100000102238,coal_power,Mahatma Gandhi power station,28.488143,76.352534,India,operating,2920.0,exact
+L100000102239,coal_power,Panipat power station,29.3975059,76.8763161,India,operating,3760.0,exact
+L100000102240,coal_power,Rajiv Gandhi Thermal Power Project,29.34698,75.857538,India,operating,2000.0,exact
+L100000102243,coal_power,Adani Godda power station,24.814107,87.135465,India,operating,1600.0,exact
+L100000102245,coal_power,Baranda power station,23.192189,85.708852,India,cancelled,900.0,approximate
+L100000102246,coal_power,Bhawnathpur power station,24.17,83.81,India,cancelled,1320.0,approximate
+L100000102247,coal_power,Bhusar power station,23.73,84.47,India,cancelled,660.0,approximate
+L100000102248,coal_power,Bokaro Thermal Power Station,23.782944,85.883391,India,operating,1130.0,exact
+L100000102250,coal_power,Bokaro Steel City Thermal Power Station,23.685875,86.092944,India,operating,326.0,exact
+L100000102251,coal_power,Chandil Singh power station,22.48,86.72,India,cancelled,1320.0,approximate
+L100000102252,coal_power,Chandrapura power station,23.7412565,86.1202088,India,operating,2490.0,exact
+L100000102253,coal_power,Chandwa Power Project,23.739508,84.781859,India,cancelled,2415.0,exact
+L100000102254,coal_power,Chapariya power station,24.49,86.7,India,cancelled,1320.0,approximate
+L100000102255,coal_power,Chichro Patsimal power station,23.691349,85.272247,India,cancelled,2000.0,approximate
+L100000102256,coal_power,Danbhum power station,23.78,86.72,India,cancelled,1320.0,approximate
+L100000102257,coal_power,Deoghar Ultra Mega Power Project,24.36,86.597778,India,cancelled,4000.0,exact
+L100000102258,coal_power,Dumka power station (CESC),24.263371,87.246407,India,cancelled,1260.0,approximate
+L100000102259,coal_power,Dumka power station (Gagan),24.2667,87.25,India,cancelled,1600.0,approximate
+L100000102260,coal_power,Dumka power station (Jindal),24.263371,87.246407,India,cancelled,2640.0,approximate
+L100000102262,coal_power,Godda Project,24.82786,87.213676,India,cancelled,1320.0,approximate
+L100000102263,coal_power,Gola power station,23.48362,85.657485,India,operating,126.0,exact
+L100000102264,coal_power,Ichagarh power station,23.018671,85.94376,India,cancelled,1980.0,approximate
+L100000102265,coal_power,Jamshedpur Works power station,22.787368,86.200088,India,operating,90.0,exact
+L100000102267,coal_power,Jindal Patratu captive power station,23.691349,85.272247,India,cancelled,1320.0,approximate
+L100000102268,coal_power,Jojobera Power Plant,22.7554,86.2491,India,operating,547.5,exact
+L100000102269,coal_power,Kamdara power station (Jindal),22.919791,84.951289,India,cancelled,2640.0,approximate
+L100000102270,coal_power,Kamdara power station,22.919791,84.951289,India,cancelled,1320.0,approximate
+L100000102272,coal_power,Koderma Thermal Power Station,24.391534,85.561899,India,operating,2600.0,exact
+L100000102273,coal_power,KVK Jharkhand project,22.935627,85.09262,India,cancelled,1000.0,approximate
+L100000102274,coal_power,Latehar power station,23.73,84.47,India,cancelled,1000.0,approximate
+L100000102275,coal_power,Mahadev Prasad Super Thermal Power Plant,22.836504,86.061294,India,operating,1080.0,exact
+L100000102276,coal_power,Maithon Right Bank Thermal Power Station,23.8209,86.76,India,operating,2370.0,exact
+L100000102277,coal_power,Malaxmi Mega Thermal Power Project (Thakurbari),22.640313,86.429787,India,cancelled,2640.0,approximate
+L100000102278,coal_power,North Karanpura power station,23.850772,85.012411,India,operating,1980.0,exact
+L100000102279,coal_power,Palamau Plant power station,24.22902,83.885832,India,operating,60.0,exact
+L100000102280,coal_power,Patratu Energy power station,23.625,85.273611,India,cancelled,1320.0,exact
+L100000102281,coal_power,Patratu JSEB power station,23.64,85.2931,India,operating,4840.0,exact
+L100000102282,coal_power,Patratu power station (Jinbhuvish Energy),23.634931,85.303314,India,cancelled,1320.0,approximate
+L100000102283,coal_power,Rahem power station,23.852941,85.031141,India,cancelled,1000.0,approximate
+L100000102284,coal_power,Sahibganj power station,24.858152,87.774208,India,cancelled,1320.0,approximate
+L100000102285,coal_power,Seraikela power station,23.018671,85.94376,India,cancelled,210.0,approximate
+L100000102286,coal_power,Tasra Coking power station,23.78,86.72,India,cancelled,300.0,approximate
+L100000102287,coal_power,Tenughat power station,23.7276632,85.7652325,India,operating,1740.0,exact
+L100000102288,coal_power,Tilaiya Ultra Mega Power Project,24.316667,85.6,India,cancelled,3960.0,exact
+L100000102289,coal_power,Tiruldih Power Project,23.141111,85.957778,India,cancelled,1980.0,exact
+L100000102290,coal_power,Tori power plant,23.7073307,84.7738552,India,cancelled,1800.0,exact
+L100000102291,coal_power,Visa Power Jharkhand project,22.74199,85.872574,India,cancelled,2640.0,approximate
+L100000102292,coal_power,Welspun Energy Parbahal Thermal Power Plant,23.453168,86.3134,India,cancelled,1980.0,approximate
+L100000102293,coal_power,Bellary Thermal Power Station,15.1931738,76.7195034,India,operating,1700.0,exact
+L100000102294,coal_power,Chamalapura power station,12.19,76.45,India,cancelled,1000.0,approximate
+L100000102295,coal_power,Danapuram BMM power station,15.170332,76.379077,India,operating,235.0,exact
+L100000102296,coal_power,Edlapura power station,16.353719,77.34265,India,cancelled,800.0,exact
+L100000102297,coal_power,Ghataprabha power station,16.23,74.6,India,cancelled,1320.0,approximate
+L100000102298,coal_power,Gowdasandra power station,13.43,77.72,India,cancelled,160.0,approximate
+L100000102299,coal_power,Gulbarga power station,17.0854,76.79,India,cancelled,1320.0,approximate
+L100000102300,coal_power,Hanakon Thermal Power Project,14.917915,74.174538,India,cancelled,450.0,approximate
+L100000102301,coal_power,Hassan power station,12.9833,76.133,India,cancelled,1000.0,exact
+L100000102302,coal_power,Jewargi power station,17.012141,76.7752,India,cancelled,1320.0,approximate
+L100000102303,coal_power,JSW Vijayanagar Toranagallu power station,15.186771,76.6621387,India,operating,1520.0,exact
+L100000102304,coal_power,Kadechur power station,16.51853,77.328408,India,cancelled,1320.0,approximate
+L100000102305,coal_power,Karnataka Gupta power station,14.75,75.66,India,cancelled,1320.0,approximate
+L100000102306,coal_power,Kudgi Super Thermal Power Project,16.499546,75.834632,India,operating,4000.0,exact
+L100000102307,coal_power,Mulwad (Bijapur Luxor) power station,16.554453,75.729033,India,cancelled,1320.0,exact
+L100000102308,coal_power,Niddodi Ultra Mega Power Project,13.042756,74.903208,India,cancelled,4000.0,approximate
+L100000102309,coal_power,Raichur Thermal Power Station,16.3532,77.3422,India,operating,2720.0,exact
+L100000102310,coal_power,Udupi Cement Plant,13.3389,74.7451,India,cancelled,100.0,approximate
+L100000102311,coal_power,Udupi power station,13.1596,74.8002,India,operating,2800.0,exact
+L100000102312,coal_power,Vadlur power station,16.3015842,77.3615384,India,operating,455.0,exact
+L100000102313,coal_power,Vantamuri power station,16.23,74.6,India,cancelled,1050.0,approximate
+L100000102314,coal_power,Vijaynagar (KPCL) power station,15.325,76.465,India,cancelled,1000.0,approximate
+L100000102315,coal_power,Yermarus power station,16.295261,77.35612,India,operating,1600.0,exact
+L100000102316,coal_power,Kasargod power station,12.242538,75.233321,India,cancelled,1320.0,approximate
+L100000102317,coal_power,Anuppur power station (Newzone),23.152987,81.832352,India,cancelled,1320.0,approximate
+L100000102318,coal_power,Anuppur Thermal Power Project (MB Power),23.073731,81.784286,India,operating,4180.0,exact
+L100000102319,coal_power,Banas Thermal Power project (Anuppur),23.102944,81.698098,India,cancelled,1320.0,approximate
+L100000102320,coal_power,Bansagar power station,24.023398,81.374295,India,cancelled,1600.0,approximate
+L100000102321,coal_power,Barethi Super Thermal Power Project,24.783333,79.9,India,cancelled,2640.0,exact
+L100000102323,coal_power,Bijor power station,25.3694957,78.7987451,India,cancelled,1980.0,approximate
+L100000102324,coal_power,Bina Thermal Power Project,24.317222,78.133564,India,operating,1200.0,exact
+L100000102325,coal_power,Chadhana power station,24.53,81.29,India,cancelled,660.0,approximate
+L100000102326,coal_power,Chhindwara JSW power station,22.059551,78.938627,India,cancelled,1320.0,approximate
+L100000102327,coal_power,Chitrangi Power Project,24.364797,82.6469,India,cancelled,3960.0,exact
+L100000102328,coal_power,Dabaura power station,25.115556,81.303889,India,cancelled,3960.0,approximate
+L100000102329,coal_power,Dada Dhuniwale Thermal Power Project,21.825011,76.346383,India,cancelled,1600.0,approximate
+L100000102330,coal_power,Devaldi power station,21.83,76.34,India,cancelled,1000.0,approximate
+L100000102331,coal_power,Gadarwara power station (BLA),22.958166,78.732893,India,operating,180.0,exact
+L100000102332,coal_power,Gadarwara Super Thermal Power Project,22.861752,78.866129,India,operating,3200.0,exact
+L100000102333,coal_power,Garadiatola power station,23.525881,80.840683,India,cancelled,1320.0,approximate
+L100000102334,coal_power,Ghuman power station (Prosperous Energy),24.963897,81.490368,India,cancelled,1200.0,approximate
+L100000102335,coal_power,Ghuman/Tilaun power station (Reliable Thermal),24.963897,81.490368,India,cancelled,1320.0,approximate
+L100000102336,coal_power,Gorgi power station,24.116667,81.933333,India,cancelled,1320.0,exact
+L100000102337,coal_power,Jawa power station,24.963897,81.490368,India,cancelled,1320.0,approximate
+L100000102338,coal_power,Jaypee Nigrie Super Thermal Power Project,24.14997,81.904525,India,operating,1320.0,exact
+L100000102339,coal_power,Jhabua (Chetak) power station,22.769455,74.592483,India,cancelled,1320.0,approximate
+L100000102340,coal_power,NTPC Seoni power station,22.735479,79.912341,India,operating,1400.0,exact
+L100000102342,coal_power,Katni power station,23.834659,80.395517,India,cancelled,3200.0,approximate
+L100000102343,coal_power,Khandwa power station (Dwarkesh Energy),22.008889,76.766667,India,cancelled,1320.0,exact
+L100000102344,coal_power,Khandwa power station (Era Infra),21.999656,76.18417,India,cancelled,1320.0,approximate
+L100000102345,coal_power,Khargone power station,22.065169,75.851943,India,operating,1320.0,exact
+L100000102346,coal_power,Madhya Pradesh Jain Energy power station,23.282508,81.588249,India,cancelled,1320.0,approximate
+L100000102347,coal_power,Mahan Aluminium power station,24.220902,82.437197,India,operating,900.0,exact
+L100000102348,coal_power,Mahan Super Thermal Power Project,24.008674,82.41703,India,operating,5000.0,exact
+L100000102349,coal_power,Maharjapur power station,25.093683,79.803314,India,cancelled,1320.0,approximate
+L100000102351,coal_power,Mandsaur power station,24.075305,75.068178,India,cancelled,1320.0,approximate
+L100000102352,coal_power,Mohgaon power station,22.43,80.12,India,cancelled,1000.0,approximate
+L100000102353,coal_power,MP Amarkantak power station,23.162146,81.632816,India,operating,1140.0,exact
+L100000102356,coal_power,Parasi power station,23.133347,81.889353,India,cancelled,1320.0,approximate
+L100000102357,coal_power,Pench Thermal Power Project,22.147958,79.134455,India,cancelled,1320.0,exact
+L100000102358,coal_power,Rewa power station,21.83,76.33,India,cancelled,1320.0,approximate
+L100000102359,coal_power,Sanjay Gandhi power station,23.305744,81.064817,India,operating,1340.0,exact
+L100000102360,coal_power,Sasan Ultra Mega Power Project,23.9775233,82.6264733,India,operating,5940.0,exact
+L100000102361,coal_power,Satpura Thermal Power Station,22.108133,78.177072,India,operating,2302.5,exact
+L100000102362,coal_power,Seoni power station,22.09,79.55,India,cancelled,1320.0,approximate
+L100000102363,coal_power,Shahdol power station,23.275,81.483611,India,cancelled,1320.0,exact
+L100000102364,coal_power,Shahdol power station (Pagaria),23.3,81.35,India,cancelled,540.0,approximate
+L100000102365,coal_power,Shahpura power station,23.138821,79.667655,India,cancelled,1500.0,approximate
+L100000102366,coal_power,Shree Singaji Thermal Power Project,22.09914,76.531727,India,operating,2520.0,exact
+L100000102367,coal_power,Sidhi Cement Plant power station,24.326294,81.332817,India,operating,155.0,exact
+L100000102368,coal_power,Sidhi Power Project,24.133333,81.866667,India,cancelled,1200.0,exact
+L100000102369,coal_power,Suryachakra Thermal (Madhya Pradesh),24.4167,81.8833,India,cancelled,1320.0,approximate
+L100000102371,coal_power,Vindhyachal power station,24.0983,82.6719,India,operating,4760.0,exact
+L100000102372,coal_power,Welspun Amla power station,21.9233,78.129158,India,cancelled,1320.0,approximate
+L100000102373,coal_power,Adani Anuppur Thermal Power Plant,23.206979,81.979321,India,construction,3200.0,approximate
+L100000102374,coal_power,Welspun Mega Industrial & Energy Park,24.505894,81.496468,India,cancelled,5280.0,approximate
+L100000102375,coal_power,Amravati Thermal Power Project,21.080316,77.901242,India,operating,4020.0,exact
+L100000102376,coal_power,ASTARC power station,20.863784,79.273739,India,cancelled,1320.0,approximate
+L100000102377,coal_power,Ballarpur Bilt Power power station,19.860468,79.339438,India,operating,40.0,exact
+L100000102378,coal_power,Bela power station (Mantri Power),20.806389,79.051944,India,cancelled,540.0,approximate
+L100000102379,coal_power,Bela power station,20.80915,79.054892,India,operating,890.0,exact
+L100000102380,coal_power,Bhadravati power station (Ispat),20.110047,79.121003,India,cancelled,2000.0,approximate
+L100000102381,coal_power,Bhadravati power station (MIDC),20.110047,79.121003,India,cancelled,1320.0,approximate
+L100000102382,coal_power,Bhandara power station,21.271844,79.688234,India,cancelled,2640.0,approximate
+L100000102383,coal_power,Bhandewadi power station,20.009935,79.195774,India,cancelled,500.0,approximate
+L100000102384,coal_power,Bhigwan Mill power station,18.242234,74.752554,India,operating,60.0,exact
+L100000102385,coal_power,Bhusawal Thermal Power Station,21.04798,75.85502,India,operating,2135.0,exact
+L100000102386,coal_power,Bijora power station,19.707122,77.737584,India,cancelled,1260.0,approximate
+L100000102387,coal_power,Butibori Power Project,20.928591,78.933281,India,operating,900.0,exact
+L100000102388,coal_power,Chandrapur Thermal Power Station,20.0063,79.29,India,operating,3340.0,exact
+L100000102389,coal_power,Chandrapur Works power station,20.3693717,78.8828903,India,operating,40.0,exact
+L100000102390,coal_power,Coastal Maharashtra Project,18.75,72.9583,India,cancelled,2400.0,exact
+L100000102391,coal_power,Dahanu power station,19.9545,72.7478,India,operating,1700.0,exact
+L100000102392,coal_power,Devgad UMPP,16.3735,73.3778,India,cancelled,4000.0,approximate
+L100000102393,coal_power,Dhakore power station,15.766642,73.70004,India,cancelled,1050.0,approximate
+L100000102394,coal_power,Dhariwal power station,20.010588,79.203433,India,operating,600.0,exact
+L100000102395,coal_power,Dhopave coal plant (NTPC),17.55829,73.192694,India,cancelled,1600.0,approximate
+L100000102396,coal_power,Dhopave Thermal Power Station (Mahagenco),17.55829,73.192694,India,cancelled,2780.0,approximate
+L100000102397,coal_power,Dolvi captive power station,18.530398,72.92038,India,cancelled,660.0,approximate
+L100000102398,coal_power,Dondaicha Thermal Power Station,21.274722,74.606944,India,cancelled,3300.0,approximate
+L100000102399,coal_power,Ellora Paper Mills Gondia power station,21.461389,80.191389,India,cancelled,2640.0,approximate
+L100000102400,coal_power,GMR Warora Energy power station,20.279656,78.975351,India,operating,1260.0,exact
+L100000102401,coal_power,Gadchiroli power station,20.186111,80.005278,India,cancelled,1980.0,approximate
+L100000102402,coal_power,Ghugus power station,19.92949,79.133159,India,operating,660.0,exact
+L100000102403,coal_power,Girye Ultra Mega Power Project,16.527161,73.326656,India,cancelled,4000.0,approximate
+L100000102404,coal_power,Hari Hareshwar power station (Veshvi and Bankot),17.979579,73.051596,India,cancelled,1600.0,approximate
+L100000102405,coal_power,JSW Tarapur power station,19.794507,72.740525,India,operating,30.0,exact
+L100000102406,coal_power,Khaperkheda power station,21.2818,79.116,India,operating,1340.0,exact
+L100000102407,coal_power,Khopoli Works power station,18.7707748,73.2593624,India,operating,60.0,exact
+L100000102408,coal_power,Khursapar power station,20.85564,79.322502,India,cancelled,1320.0,approximate
+L100000102409,coal_power,Khutafali (Kolura) power station,20.489921,77.868171,India,cancelled,1320.0,approximate
+L100000102410,coal_power,Kinebodi power station,19.851041,79.206448,India,cancelled,750.0,approximate
+L100000102411,coal_power,Koradi Thermal Power Station,21.2420685,79.0949659,India,operating,4340.0,exact
+L100000102412,coal_power,Latur power station,18.4,76.58,India,cancelled,1500.0,approximate
+L100000102413,coal_power,Madhekar power station,18.655491,72.86792,India,cancelled,405.0,approximate
+L100000102414,coal_power,Manikgarh Cement power station,19.721222,79.174604,India,operating,60.0,exact
+L100000102415,coal_power,Mauda power station,21.18074,79.396541,India,operating,2320.0,exact
+L100000102416,coal_power,Mendki thermal power project,20.466667,79.8,India,cancelled,1320.0,approximate
+L100000102417,coal_power,MIHAN Power Project,21.0377,78.9334,India,operating,246.0,exact
+L100000102419,coal_power,Nardana Vaghode power station,21.15103,74.854206,India,operating,300.0,exact
+L100000102420,coal_power,Nasik MAHAGENCO Thermal Power Station,19.9814589,73.8920556,India,operating,1570.0,exact
+L100000102421,coal_power,Nasik RattanIndia Thermal Power Project,19.866659,74.081749,India,operating,2700.0,exact
+L100000102422,coal_power,Paras power station,20.7147,76.7948,India,operating,812.5,exact
+L100000102423,coal_power,Parbhani Renuka power station,19.267918,76.435742,India,operating,30.0,exact
+L100000102424,coal_power,Parli Thermal Power Station,18.9075857,76.5429497,India,operating,1380.0,exact
+L100000102425,coal_power,Parsodi power station,20.829333,78.884639,India,cancelled,900.0,exact
+L100000102427,coal_power,Rampur coal plant,17.53,73.52,India,cancelled,1000.0,approximate
+L100000102428,coal_power,Ratnagiri Power Plant,17.296375,73.213105,India,operating,4400.0,exact
+L100000102429,coal_power,Shahpur Thermal Power Project,18.64,72.88,India,cancelled,1200.0,approximate
+L100000102431,coal_power,Solapur power station,17.551296,75.9832,India,operating,1320.0,exact
+L100000102432,coal_power,Tiroda Thermal Power Project,21.412502,79.96731,India,operating,3300.0,exact
+L100000102433,coal_power,Trombay power station,19.0027,72.8979,India,operating,1400.0,exact
+L100000102434,coal_power,Vidarbha thermal power station,20.822194,78.487208,India,cancelled,1320.0,exact
+L100000102435,coal_power,Waral power station,19.521033,75.009818,India,cancelled,450.0,approximate
+L100000102436,coal_power,Wardha Warora Power Plant,20.272443,78.978916,India,operating,840.0,exact
+L100000102437,coal_power,Wardha Works power station,20.7089494,78.6281506,India,operating,80.0,exact
+L100000102438,coal_power,Welspun Maxsteel power station,18.530398,72.92038,India,cancelled,330.0,approximate
+L100000102439,coal_power,Garo Hills power station,25.49546,90.61682,India,cancelled,500.0,approximate
+L100000102440,coal_power,West Khasi Hills power station,25.491579,91.269847,India,cancelled,240.0,approximate
+L100000102441,coal_power,Aditya Aluminium power station,21.740068,84.060592,India,operating,900.0,exact
+L100000102442,coal_power,Angul power station,21.127044,84.980552,India,operating,3320.0,exact
+L100000102443,coal_power,Angul Smelter power station,20.8490264,85.1902199,India,operating,2780.0,exact
+L100000102444,coal_power,Angul Steel power station,20.892474,84.99039,India,operating,810.0,exact
+L100000102445,coal_power,Babandh power station,20.826425,85.296478,India,cancelled,2640.0,exact
+L100000102446,coal_power,Balangir power station,20.220833,83.191667,India,cancelled,1320.0,exact
+L100000102447,coal_power,Baragaon power station,20.332072,82.692032,India,cancelled,1320.0,approximate
+L100000102448,coal_power,Barbil Jagannath power station,22.1323609,85.3830706,India,operating,30.0,exact
+L100000102450,coal_power,Basundhara power station,22.116667,84.033333,India,announced,4000.0,approximate
+L100000102451,coal_power,Bhapur power station,20.285546,85.294762,India,cancelled,1320.0,approximate
+L100000102452,coal_power,Bhubaneshwar Jasper power station,20.479398,85.74492,India,operating,135.0,exact
+L100000102453,coal_power,Srirampur Coal-to-Liquids Project,20.71623,85.28414,India,cancelled,1080.0,approximate
+L100000102454,coal_power,Choudwar power station,20.535296,85.910723,India,operating,258.0,exact
+L100000102455,coal_power,Nilanchal power station,20.587097,85.742653,India,cancelled,3450.0,exact
+L100000102456,coal_power,Cuttack power station (VISA Power),20.515062,85.76726,India,cancelled,1320.0,approximate
+L100000102457,coal_power,Cuttack Works power station,20.5159127,85.7230978,India,operating,110.0,exact
+L100000102458,coal_power,Darlipali power station,21.963554,83.89187,India,operating,4800.0,exact
+L100000102459,coal_power,Duburi Steel power station,20.960233,86.050308,India,operating,250.0,exact
+L100000102460,coal_power,Durgapur Jindal Synfuels captive power plant,20.911369,84.927014,India,cancelled,1125.0,approximate
+L100000102461,coal_power,Gajamara Ultra Mega Power Project,20.833,84.333,India,cancelled,4000.0,approximate
+L100000102462,coal_power,Gajmara Super Thermal Power Station,20.65616,85.604263,India,cancelled,1600.0,approximate
+L100000102463,coal_power,Ganjam power station,19.384291,85.056358,India,cancelled,1320.0,approximate
+L100000102464,coal_power,Ghogarpalli Ultra Mega Power Project,20.083,83.2,India,cancelled,4000.0,approximate
+L100000102465,coal_power,Hemgir power station,22.116,84.016,India,cancelled,1600.0,approximate
+L100000102466,coal_power,Hirakud Smelter power station,21.529687,83.904569,India,operating,367.5,exact
+L100000102467,coal_power,Ib Valley Thermal Power Station,21.690729,83.860096,India,operating,3060.0,exact
+L100000102468,coal_power,Jamuchakada power station,20.695833,85.438597,India,cancelled,1320.0,exact
+L100000102469,coal_power,Jamunda power station,20.705855,85.079766,India,cancelled,1320.0,approximate
+L100000102470,coal_power,Jharsuguda CPP power station,21.787993,84.054361,India,operating,1215.0,exact
+L100000102471,coal_power,Jharsuguda Ind-Barath power station,21.657942,83.919513,India,operating,1360.0,exact
+L100000102472,coal_power,Jharsuguda Sterlite power station,21.815743,84.042036,India,operating,2400.0,exact
+L100000102473,coal_power,JR Power Project,18.852709,83.876458,India,cancelled,1980.0,approximate
+L100000102474,coal_power,Kalinganagar Maithan power station,20.922672,86.042365,India,operating,30.0,exact
+L100000102475,coal_power,Kamakhyanagar power station,20.837,85.520555,India,cancelled,2400.0,exact
+L100000102476,coal_power,Kamalanga power station,20.870576,85.266979,India,operating,1400.0,exact
+L100000102477,coal_power,Kharagprasad power station,20.809441,85.288621,India,operating,94.0,exact
+L100000102478,coal_power,Kishore Nagar Coal-to-Liquids Project,20.833,85.1,India,cancelled,1350.0,approximate
+L100000102479,coal_power,Lanjigarh Refinery power station,19.711863,83.397785,India,operating,90.0,exact
+L100000102480,coal_power,Malibrahmani power station,20.922321,84.99105,India,construction,3310.0,exact
+L100000102481,coal_power,Meramandali power station,20.8072919,85.2531512,India,operating,741.0,exact
+L100000102482,coal_power,NALCO Gajmara power station,20.65616,85.604263,India,cancelled,2400.0,approximate
+L100000102483,coal_power,Nandichod power station,20.833,85.1,India,cancelled,135.0,approximate
+L100000102484,coal_power,Navabharat power station,20.65616,85.604263,India,cancelled,2250.0,approximate
+L100000102485,coal_power,Neulapoi power station (Dhenkanal),20.723611,85.692778,India,cancelled,1320.0,exact
+L100000102486,coal_power,Paradip Oswal power station,20.3122274,86.6595466,India,operating,110.0,exact
+L100000102487,coal_power,Paradip power station,20.31221,86.645829,India,operating,120.0,exact
+L100000102488,coal_power,Pitamahul power station,20.848014,83.895004,India,cancelled,1320.0,approximate
+L100000102489,coal_power,Rairakhol power station,20.667,84.333,India,cancelled,1320.0,approximate
+L100000102490,coal_power,Randia power station,21.067296,86.454828,India,operating,100.0,exact
+L100000102491,coal_power,Rayagada Paper power station,19.246167,83.41243,India,operating,55.0,exact
+L100000102492,coal_power,Rengali Bhushan power station,21.680814,84.040505,India,operating,360.0,exact
+L100000102493,coal_power,Rengali power station,21.627661,84.047073,India,cancelled,2000.0,approximate
+L100000102494,coal_power,Rourkela Works-2 power station,22.221,84.880551,India,operating,370.0,exact
+L100000102496,coal_power,Sakhigopal Ultra Mega Power Project,19.958191,85.826363,India,cancelled,4000.0,approximate
+L100000102497,coal_power,Sodamal power station,21.8602,84.0155,India,cancelled,1320.0,approximate
+L100000102498,coal_power,Spi Ports power station,20.474444,86.545278,India,cancelled,1320.0,exact
+L100000102499,coal_power,Sri Ramchandrapur power project,19.383,85.05,India,cancelled,120.0,approximate
+L100000102500,coal_power,Sundargarh Ultra Mega Power Project,22.040484,84.032603,India,cancelled,4000.0,approximate
+L100000102501,coal_power,Talabira power station,21.778342,83.989506,India,construction,3200.0,exact
+L100000102502,coal_power,Talcher Kaniha Super Thermal Power Station,21.0970667,85.0750266,India,operating,4600.0,exact
+L100000102503,coal_power,Talcher power station (NSL Nagapatnam),20.916667,85.183333,India,cancelled,1320.0,exact
+L100000102504,coal_power,Talcher power station,20.9110615,85.2072412,India,construction,2580.0,exact
+L100000102505,coal_power,Tata Begunia power station,19.27,84.92,India,cancelled,2000.0,approximate
+L100000102506,coal_power,Utkal Smelter power station,19.1954986,83.0299313,India,operating,90.0,exact
+L100000102507,coal_power,Karaikal Port power station,10.906007,79.848676,India,cancelled,1980.0,approximate
+L100000102508,coal_power,Gidderbaha power station,30.0208,76.1025,India,cancelled,2640.0,approximate
+L100000102509,coal_power,GNDTP Bathinda power station,30.233889,74.924408,India,retired,460.0,exact
+L100000102510,coal_power,Gobindpura power station,30.719984,76.083426,India,cancelled,1350.0,approximate
+L100000102511,coal_power,Goindwal Sahib Thermal Power Plant,31.38414,75.146503,India,operating,1860.0,exact
+L100000102512,coal_power,Guru Hargobind Lehra Mohabbat Power Station,30.266555,75.166097,India,operating,1420.0,exact
+L100000102514,coal_power,Mukerian power station,31.976137,75.739532,India,cancelled,1320.0,approximate
+L100000102515,coal_power,Rajpura Thermal Power Project,30.558963,76.577593,India,operating,2200.0,exact
+L100000102516,coal_power,Ropar power station,31.0417,76.5847,India,operating,4180.0,exact
+L100000102518,coal_power,Talwandi Sabo Power Project,29.92458,75.238929,India,operating,2640.0,exact
+L100000102519,coal_power,Ajmer power station,26.073889,74.385,India,operating,300.0,exact
+L100000102520,coal_power,Banswara Thermal Power Station,23.540541,74.442253,India,cancelled,1320.0,approximate
+L100000102521,coal_power,Barsingsar Thermal Power Project,27.845022,73.199426,India,operating,500.0,exact
+L100000102522,coal_power,Bithnok Thermal Power Project,27.849853,72.717276,India,announced,250.0,approximate
+L100000102523,coal_power,Chanderiya Smelter power station,24.963223,74.668532,India,operating,234.0,exact
+L100000102524,coal_power,Chhabra Thermal Power Station,24.62092,77.035439,India,operating,3640.0,exact
+L100000102525,coal_power,Giral power station,26.045717,71.254096,India,operating,250.0,exact
+L100000102526,coal_power,JSW Barmer Jalipa Kapurdi power station,25.895391,71.329871,India,operating,3240.0,exact
+L100000102527,coal_power,Kalisindh Thermal Power Station,24.5325129,76.100353,India,operating,4120.0,exact
+L100000102528,coal_power,Kawai Thermal Power Project,24.777997,76.737144,India,operating,6120.0,exact
+L100000102529,coal_power,Kota Complex power station,25.128632,75.883521,India,operating,125.0,exact
+L100000102530,coal_power,Kota power station,25.171014,75.816976,India,operating,1240.0,exact
+L100000102531,coal_power,Nimbri Chandawatan power station,27.2,73.73,India,cancelled,120.0,approximate
+L100000102532,coal_power,Rajpura Dariba Mine power station,24.947776,74.131622,India,operating,160.0,exact
+L100000102533,coal_power,Shriram Rayons power station,25.138396,75.883598,India,operating,141.0,exact
+L100000102534,coal_power,Suratgarh Super Thermal Power Station,29.181766,74.018741,India,operating,4140.0,exact
+L100000102535,coal_power,VS Lignite Plant,27.8567,72.8577,India,operating,135.0,exact
+L100000102536,coal_power,Zawar Mines power station,24.3497957,73.7486207,India,operating,80.0,exact
+L100000102537,coal_power,ARS Metals Gummidipoondi captive power station,13.423889,80.066111,India,operating,545.0,exact
+L100000102538,coal_power,Athiyakurichi power station,8.43,78.02,India,cancelled,2640.0,approximate
+L100000102539,coal_power,Cauvery Power Gummidipoondi captive power station,13.423182,80.066316,India,operating,423.0,exact
+L100000102540,coal_power,Chennai power station,13.437422,80.09788,India,operating,1134.0,exact
+L100000102541,coal_power,Cheyyur Ultra Mega Power Project,12.3125,79.9825,India,cancelled,4000.0,exact
+L100000102542,coal_power,Cuddalore IL&FS power station,11.5215094,79.7515009,India,operating,3180.0,exact
+L100000102543,coal_power,Cuddalore power station,11.65,79.75,India,cancelled,1320.0,approximate
+L100000102544,coal_power,Cuddalore SRM power station,11.522222,79.669444,India,cancelled,1980.0,exact
+L100000102545,coal_power,Ennore SEZ Super Critical Thermal Power Project (Vayalur),13.291667,80.309722,India,construction,1320.0,exact
+L100000102546,coal_power,Ennore Thermal Power Station,13.2016,80.3112,India,retired,1770.0,exact
+L100000102547,coal_power,Gummidipoondi Accord power station,13.420278,80.073333,India,cancelled,360.0,exact
+L100000102548,coal_power,Gummidipoondi Kamachi power station,13.424018,80.087457,India,operating,70.0,exact
+L100000102549,coal_power,Gummidipoondi Suryadev power station,13.384779,80.107416,India,operating,160.0,exact
+L100000102550,coal_power,Tulsyan Steel Gummidipoondi captive power station,13.416421,80.056944,India,operating,70.0,exact
+L100000102551,coal_power,Jaya power station,8.803,78.1445,India,cancelled,450.0,approximate
+L100000102552,coal_power,Jayamkondam power station,11.2167,79.3667,India,cancelled,500.0,approximate
+L100000102553,coal_power,Kadaladi power station,9.227392,78.472595,India,cancelled,4000.0,approximate
+L100000102554,coal_power,Kagithapuram Mill power station,11.052854,77.995806,India,operating,40.0,exact
+L100000102555,coal_power,Karapidagai North power station,10.590833,79.800278,India,cancelled,150.0,exact
+L100000102556,coal_power,Kattupalli power station,13.258618,80.340732,India,cancelled,1320.0,approximate
+L100000102557,coal_power,Marakkanam Super Thermal Power Project,12.19036,79.941856,India,cancelled,4000.0,approximate
+L100000102558,coal_power,Melamaruthur power station (Vainateya),8.9159,78.1374,India,cancelled,2640.0,approximate
+L100000102559,coal_power,Melmandai power station,9.1,78.316111,India,cancelled,600.0,approximate
+L100000102560,coal_power,Mettur Siscol power station,11.814008,77.919073,India,operating,60.0,exact
+L100000102561,coal_power,Mettur Thermal Power Station,11.7720201,77.8141046,India,operating,1440.0,exact
+L100000102562,coal_power,Moxie Power Melamaruthur Thermal Power Plant,8.912716,78.144965,India,operating,2800.0,exact
+L100000102563,coal_power,Nagai Nagapattinam Power Project,10.824085,79.753828,India,operating,300.0,exact
+L100000102564,coal_power,Neidavasal power station,10.767,79.833,India,cancelled,1320.0,approximate
+L100000102565,coal_power,New Neyveli Thermal Power Station,11.547055,79.44289,India,operating,1000.0,exact
+L100000102566,coal_power,Neyveli Thermal Power Station I,11.5925145,79.4738506,India,operating,1020.0,exact
+L100000102567,coal_power,Neyveli Thermal Power Station II,11.5575892,79.4415697,India,operating,3290.0,exact
+L100000102568,coal_power,Neyveli Zero power station,11.5401,79.4159,India,operating,500.0,exact
+L100000102569,coal_power,North Chennai Thermal Power Station,13.253013,80.327804,India,operating,2630.0,exact
+L100000102570,coal_power,Ottapidaram power station,8.8833,78.06111,India,cancelled,1320.0,exact
+L100000102571,coal_power,Salem Siscol power station,11.814008,77.919073,India,operating,30.0,exact
+L100000102572,coal_power,Sattankulam power station,8.45,77.93,India,cancelled,2000.0,approximate
+L100000102573,coal_power,Savarimangalam power station,8.862239,77.985642,India,cancelled,2640.0,approximate
+L100000102574,coal_power,SEPC Tuticorin power station,8.7553106,78.158031,India,operating,525.0,exact
+L100000102575,coal_power,Sirkali power station,11.23,79.73,India,cancelled,4000.0,approximate
+L100000102576,coal_power,Sirkazhi power station,11.193889,79.836667,India,cancelled,1320.0,exact
+L100000102577,coal_power,Talanchankadu power station,11.029167,79.849444,India,cancelled,1320.0,approximate
+L100000102578,coal_power,Tharangambadi power station (Patel Power),11.029167,79.849444,India,cancelled,1050.0,approximate
+L100000102579,coal_power,Tharangambadi power station (PPN Power),11.029167,79.849444,India,cancelled,320.0,approximate
+L100000102580,coal_power,Tharangambadi power station,11.061111,79.842222,India,cancelled,1320.0,exact
+L100000102581,coal_power,Thirumallaivasal power station,11.240536,79.838591,India,cancelled,1400.0,approximate
+L100000102582,coal_power,Thoothukudi IBTPL power station,8.882745,78.053583,India,mothballed,450.0,exact
+L100000102583,coal_power,Thoothukudi IBPGL power station,8.864947,78.106989,India,mothballed,189.0,exact
+L100000102584,coal_power,Tuticorin NTPL power station,8.760363,78.171083,India,operating,1000.0,exact
+L100000102585,coal_power,Tuticorin power station (Ind-Barath),8.3959535,77.950861,India,cancelled,1320.0,exact
+L100000102586,coal_power,Tuticorin Smelter power station,8.816981,78.0899754,India,mothballed,160.0,exact
+L100000102587,coal_power,Tuticorin Thermal Power Station,8.762518,78.175976,India,operating,1050.0,exact
+L100000102588,coal_power,Udangudi Super Critical Thermal Power Project,8.434722,78.061111,India,construction,3960.0,exact
+L100000102589,coal_power,Uppur power station,9.58299,78.90976,India,construction,1600.0,exact
+L100000102590,coal_power,Vallur Thermal Power Plant,13.237131,80.301754,India,operating,1500.0,exact
+L100000102591,coal_power,Adilibad power station (Shalivahana Power Corp.),19.159958,79.530837,India,cancelled,300.0,approximate
+L100000102592,coal_power,Bhadradri power station,18.027488,80.735645,India,operating,1080.0,exact
+L100000102593,coal_power,Ganeshpahad Cement power station,16.719583,79.69445,India,operating,77.0,exact
+L100000102594,coal_power,Hindupur power station,16.425297,77.355525,India,cancelled,1320.0,approximate
+L100000102595,coal_power,Kakatiya Thermal Power Project,18.3831934,79.8271644,India,operating,1100.0,exact
+L100000102597,coal_power,Kotapally power station (SKIL Group),18.9286,79.8176,India,cancelled,600.0,approximate
+L100000102598,coal_power,Kothagudem Thermal Power Station,17.6219,80.69355,India,operating,2520.0,exact
+L100000102599,coal_power,HWP Manuguru power station,17.87832,80.848644,India,operating,90.0,exact
+L100000102600,coal_power,Paloncha power station,17.5824568,80.6727084,India,operating,394.0,exact
+L100000102601,coal_power,Pegadapalli (Jaipur Mandal) power station,18.827056,79.570284,India,operating,2800.0,exact
+L100000102602,coal_power,Ramagundam power station,18.7584502,79.4573172,India,operating,6600.0,exact
+L100000102603,coal_power,Ramagundam-B power station,18.755,79.456111,India,retired,862.5,exact
+L100000102604,coal_power,Sattupally Thermal Power Station,17.208012,80.829475,India,cancelled,600.0,approximate
+L100000102605,coal_power,Sigma Infrarop power station (Khamman),17.247253,80.151445,India,cancelled,2640.0,approximate
+L100000102606,coal_power,Sitapuram Cement power station,16.8300701,80.040774,India,operating,43.0,exact
+L100000102607,coal_power,VBC Ferro Alloys Bodepalli plant,18.85439,78.357107,India,cancelled,120.0,approximate
+L100000102608,coal_power,Yadadri power station,16.708219,79.581184,India,operating,4000.0,exact
+L100000102609,coal_power,Amauli Fatehpur power station,26.013576,80.307383,India,cancelled,1980.0,approximate
+L100000102610,coal_power,Anpara power station,24.202043,82.789128,India,operating,1630.0,exact
+L100000102611,coal_power,Anpara-C power station,24.203788,82.79733,India,operating,1200.0,exact
+L100000102612,coal_power,Anpara-D power station,24.196262,82.806342,India,operating,1000.0,exact
+L100000102613,coal_power,Anpara-E power station,26.192778,79.940278,India,cancelled,1320.0,exact
+L100000102614,coal_power,Auraiya IGCC power station,26.46401,79.506462,India,cancelled,300.0,approximate
+L100000102615,coal_power,Auraiya Unitech power station,26.46401,79.506462,India,cancelled,250.0,approximate
+L100000102616,coal_power,Bara Thermal Power Project,25.196345,81.658534,India,operating,3300.0,exact
+L100000102617,coal_power,Barabanki power station,26.92,81.2,India,cancelled,250.0,approximate
+L100000102618,coal_power,Bargarh power station,25.135941,81.444717,India,cancelled,1980.0,approximate
+L100000102619,coal_power,Barkhera IPP power station,28.4722812,79.8067246,India,operating,90.0,exact
+L100000102620,coal_power,Bhognipur power station,26.194167,79.9075,India,cancelled,1320.0,exact
+L100000102621,coal_power,Bilhaur Super Thermal Power Plant,26.763391,80.05806,India,cancelled,1320.0,approximate
+L100000102622,coal_power,Chunar Cement power station,25.090885,82.897339,India,operating,38.0,exact
+L100000102623,coal_power,Churk captive power station,24.639104,83.101085,India,operating,240.0,exact
+L100000102624,coal_power,Dopaha Thermal Power Plant,23.973705,83.106079,India,cancelled,1980.0,approximate
+L100000102625,coal_power,Etah Ultra Mega Power Project,27.5,78.75,India,cancelled,4000.0,approximate
+L100000102626,coal_power,Feroze Gandhi Unchahar Power Station,25.9137597,81.3272384,India,operating,1550.0,exact
+L100000102627,coal_power,Gayatree power station,27.63,78.67,India,cancelled,1320.0,approximate
+L100000102628,coal_power,Ghatampur power station,25.975,80.1889,India,operating,1980.0,exact
+L100000102629,coal_power,Gonda power station,27.03,82.23,India,cancelled,500.0,approximate
+L100000102630,coal_power,Harduaganj power station,28.0175,78.13,India,operating,1500.0,exact
+L100000102631,coal_power,Jagdishpur captive power station,26.75,80.533,India,cancelled,500.0,approximate
+L100000102632,coal_power,Jawaharpur Thermal Project,27.497098,78.826071,India,operating,1320.0,exact
+L100000102633,coal_power,Karchana Thermal Power Project,25.190556,82.019722,India,cancelled,1980.0,exact
+L100000102634,coal_power,Karchana Ultra Mega Power Project,25.28,81.93,India,cancelled,4000.0,approximate
+L100000102635,coal_power,Khamberkhera IPP power station,28.0169873,80.8306368,India,operating,90.0,exact
+L100000102636,coal_power,Khurja power station,28.158333,77.908333,India,operating,1980.0,exact
+L100000102637,coal_power,Kundarki Ipp power station,27.0788732,82.0836037,India,operating,90.0,exact
+L100000102638,coal_power,Lalitpur power project,24.795833,78.646944,India,operating,4380.0,exact
+L100000102639,coal_power,Maqsoodpur power station,28.2444045,79.997547,India,operating,90.0,exact
+L100000102640,coal_power,Meja Thermal Power Project,25.145867,81.940096,India,operating,3720.0,exact
+L100000102641,coal_power,Murka power station,25.19967,81.502182,India,cancelled,600.0,approximate
+L100000102642,coal_power,National Capital Dadri Thermal Power Plant,28.603,77.6078,India,operating,1940.0,exact
+L100000102644,coal_power,Obra Thermal Power Station,24.4445803,82.9803325,India,operating,4452.0,exact
+L100000102645,coal_power,Panki Thermal Power Station,26.4766,80.241,India,operating,870.0,exact
+L100000102646,coal_power,Parichha power station,25.513571,78.757918,India,operating,1140.0,exact
+L100000102648,coal_power,Renusagar power station,24.181093,82.791279,India,operating,725.7,exact
+L100000102649,coal_power,Rihand power station,24.027,82.7915,India,operating,3000.0,exact
+L100000102650,coal_power,Rosa Thermal Power Plant,27.8194455,79.9371618,India,operating,2520.0,exact
+L100000102651,coal_power,Sandila power station,27.08,80.52,India,cancelled,1320.0,approximate
+L100000102652,coal_power,Singrauli Super Thermal Power Station,24.1042119,82.7063552,India,operating,3600.0,exact
+L100000102653,coal_power,Tanda power station,26.5894846,82.601235,India,operating,1760.0,exact
+L100000102654,coal_power,Utraula power station,27.3455145,82.3165453,India,operating,90.0,exact
+L100000102655,coal_power,Mirzapur power station,25.136582,82.562199,India,construction,1600.0,approximate
+L100000102656,coal_power,Welspun Ghazipur project,25.591721,83.319183,India,cancelled,1320.0,approximate
+L100000102657,coal_power,Lal Kuan Mill power station,29.062378,79.521661,India,operating,43.0,exact
+L100000102658,coal_power,Adra Purulia power station,23.5,86.67,India,cancelled,1320.0,approximate
+L100000102659,coal_power,Asansol Crescent power station,23.7845702,87.0472446,India,operating,40.0,exact
+L100000102660,coal_power,Asansol power station,23.68,86.99,India,cancelled,540.0,approximate
+L100000102661,coal_power,Bakreswar Thermal Power Station,23.8292205,87.451034,India,operating,1710.0,exact
+L100000102662,coal_power,Balagarh power station,23.126218,88.456134,India,cancelled,1980.0,approximate
+L100000102663,coal_power,Bandel Thermal Power Station,22.995746,88.403815,India,operating,450.0,exact
+L100000102664,coal_power,Bhushan Steel West Bengal project,22.986757,87.854975,India,cancelled,1000.0,approximate
+L100000102665,coal_power,Budge Budge Generating Station,22.470344,88.139949,India,operating,750.0,exact
+L100000102666,coal_power,Burdwan power station,23.584293,87.116954,India,cancelled,500.0,approximate
+L100000102667,coal_power,Cossipore power station,22.624408,88.368656,India,retired,160.0,exact
+L100000102668,coal_power,Durgapur DVC power station,23.531506,87.249856,India,pre-permit,1150.0,exact
+L100000102669,coal_power,Durgapur Projects Limited power station,23.521147,87.302309,India,operating,1740.0,exact
+L100000102671,coal_power,Durgapur SAIL power station,23.551805,87.248475,India,operating,120.0,exact
+L100000102672,coal_power,Durgapur Steel City Andal power station,23.58,87.2043,India,operating,1000.0,exact
+L100000102673,coal_power,Farakka power station,24.772729,87.893707,India,operating,2100.0,exact
+L100000102674,coal_power,Haldia Energy power station,22.104017,88.177345,India,operating,950.0,exact
+L100000102676,coal_power,Katwa Super Thermal Power Project (NTPC),23.65,88.13,India,cancelled,1320.0,approximate
+L100000102677,coal_power,Kolaghat Thermal Power Station,22.416565,87.870984,India,operating,1260.0,exact
+L100000102678,coal_power,Larsen & Tubro power station,22.986757,87.854975,India,cancelled,3200.0,approximate
+L100000102680,coal_power,Mejia power station,23.4639,87.1311,India,operating,2340.0,exact
+L100000102681,coal_power,Raghunathpur Thermal Power Station,23.62191,86.660703,India,operating,2520.0,exact
+L100000102682,coal_power,Raibandh power station,23.333,86.3667,India,cancelled,540.0,approximate
+L100000102683,coal_power,Sagar power station,22.03,88.06,India,cancelled,1980.0,approximate
+L100000102684,coal_power,Sagardighi Thermal Power Station,24.3688141,88.1040001,India,operating,2920.0,exact
+L100000102685,coal_power,Salboni power plant,22.641998,87.32392,India,permitted,3200.0,approximate
+L100000102686,coal_power,Santaldih Thermal Power Station,23.6013,86.4666,India,operating,2580.0,exact
+L100000102687,coal_power,Singur power station,22.81,88.23,India,cancelled,1600.0,approximate
+L100000102688,coal_power,Southern CESC power station,22.549591,88.291512,India,operating,135.0,exact
+L100000102689,coal_power,Titagarh power station,22.731974,88.370309,India,operating,240.0,exact
+L100000104378,coal_power,Pedaveedu power station,16.760523,79.842755,India,cancelled,200.0,approximate
+L100000104432,coal_power,Heoti power station,20.85564,79.322502,India,cancelled,800.0,approximate
+L100000104433,coal_power,Hiranmaye Haldia power station,22.0770275,88.0982268,India,operating,450.0,exact
+L100000104750,coal_power,Bongaigaon power station (Retired),26.440556,90.361944,India,retired,1000.0,exact
+L100000104751,coal_power,Indraprastha power station,28.6247,77.2505,India,retired,284.1,exact
+L100000104752,coal_power,Mulajore power station,22.8347,88.3813,India,retired,150.0,exact
+L100000104755,coal_power,Atul power station,20.537058,72.933282,India,operating,84.0,exact
+L100000104761,coal_power,MP Adani power station,22.429149,79.051975,India,permitted,1320.0,approximate
+L100000104769,coal_power,Bodal captive coal plant,21.802883,72.853913,India,construction,120.0,exact
+L100000104861,coal_power,Hazira power station (Reliance),21.1592,72.687127,India,operating,360.0,exact
+L100000104900,coal_power,Ganga captive power station,24.2386,87.475582,India,cancelled,1320.0,approximate
+L100000104954,coal_power,JSW Utkal Steel power station,20.225479,86.562654,India,permitted,900.0,approximate
+L100000104976,coal_power,GACL-NALCO Dahej Caustic captive power station,21.710191,72.690406,India,operating,130.0,exact
+L100000105017,coal_power,Ambuja Cements Limited power station,21.67005,82.08339,India,operating,33.0,exact
+L100000105018,coal_power,NU Vista Limited Cement power station,16.65655,79.80908,India,cancelled,30.0,approximate
+L100000105026,coal_power,Maadurga Thermal power station,20.57622,86.020728,India,operating,60.0,exact
+L100001000079,coal_power,Kajurda power station,22.309056,69.707062,India,announced,1200.0,approximate
+L100001000082,coal_power,Anpara-E power station (MUNPL),24.204564,82.782678,India,announced,1600.0,approximate
+L100001000101,coal_power,Mellacheruvu Cement power station,16.809733,79.915132,India,operating,60.0,exact
+L100001000104,coal_power,Jojobera Cement Plant power station,22.7531,86.2452,India,operating,30.0,exact
+L100001000105,coal_power,Satna Cement Plant power station,24.594239,80.857937,India,cancelled,35.0,exact
+L100001000106,coal_power,Vellaturu power station,16.719444,79.998611,India,permitted,300.0,exact
+L100001000108,coal_power,Mattapalli Cement Plant power station,16.714423,79.817713,India,cancelled,30.0,approximate
+L100001000147,coal_power,Sanghipuram Cement power station,23.3998083,68.5701728,India,operating,130.0,exact
+L100001000153,coal_power,Chandrapur (Assam) power station,26.192572,91.920035,India,retired,60.0,approximate
+L100001000571,coal_power,THDCIL-UJVNL Energy power station,30.225,79.228,India,announced,1000.0,approximate
+L100001018066,coal_power,Naini Coal Mine power station,21.055833,84.882222,India,announced,2400.0,approximate
+L100001020387,coal_power,Gurha Thermal Power Station,27.443704,72.45679,India,announced,125.0,approximate
+L100001042985,coal_power,Bikaner Thermal Power Project,28.026554,73.318338,India,announced,375.0,approximate
+L100001046328,coal_power,Torrent Power Anuppur thermal power station,23.144156,81.829954,India,permitted,1600.0,approximate
+L100001048073,coal_power,Jaunpur captive power station,25.651055,82.228647,India,mothballed,40.0,exact
+L100001061539,coal_power,Thoothukudi TNPGCL power station,8.761801,78.163355,India,announced,600.0,approximate
+L100001080946,coal_power,Adani Chapar power station,26.2314806,90.3041611,India,pre-permit,3200.0,approximate
+L100001083568,coal_power,Srikakulam APGenco thermal power station,18.528711,83.911128,India,announced,3200.0,approximate
+L100001083808,coal_power,Torrent Power Raigarh thermal power station,21.923321,83.281703,India,announced,1600.0,approximate
+L100001083814,coal_power,New Surat Lignite power station,21.415659,73.124929,India,announced,750.0,approximate

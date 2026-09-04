@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Trunks -->
+  <rect x="22" y="44" width="7" height="15" rx="2" fill="#8d6e63" stroke="#263238" stroke-width="2"/>
+  <rect x="42" y="44" width="7" height="15" rx="2" fill="#8d6e63" stroke="#263238" stroke-width="2"/>
+  
+  <!-- Left Broadleaf Tree -->
+  <path d="M 25 15 C 16 15 10 23 10 32 C 10 41 16 46 25 46 C 34 46 40 41 40 32 C 40 23 34 15 25 15 Z" fill="#a5d6a7" stroke="#263238" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 20 18 C 14 22 13 32 18 36" fill="none" stroke="#263238" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Right Pine Tree -->
+  <polygon points="45,8 30,28 35,28 26,46 60,46 51,28 56,28" fill="#4caf50" stroke="#263238" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

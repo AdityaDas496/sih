@@ -1,0 +1,7 @@
+requests
+pandas
+geopandas
+shapely
+pyogrio
+scikit-learn
+pyarrow

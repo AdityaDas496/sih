@@ -29,16 +29,18 @@ PROJECT_DIR = PERSON2_DIR.parent  # sih/
 DATA_DIR = PERSON2_DIR / "data"
 CLEAN_PARQUET = DATA_DIR / "viirs_clean.parquet"
 
-# Facility CSV — try repo-level first, fallback to GIS layer
-FACILITIES_CSV = PROJECT_DIR / "gujarat_golden_corridor_facilities.csv"
+# Facility CSV — try nationwide GIS layer first, fallback to regional
 GIS_FACILITIES_CSV = PROJECT_DIR / "gis" / "india_industrial_facilities_clean.csv"
+FACILITIES_CSV = PROJECT_DIR / "gujarat_golden_corridor_facilities.csv"
 
 BRANCH_A_OUT = DATA_DIR / "branch_a_results.parquet"
 BRANCH_B_INPUT = DATA_DIR / "branch_b_input.parquet"
 
 # Configuration
 BUFFER_METERS = 500         # spatial buffer around each facility
-UTM_CRS = "EPSG:32642"     # UTM zone 42N (covers Gujarat)
+# EPSG:7755 is the India-wide Lambert Conformal Conic (NSIDC LCC) projection
+# ensuring metric accuracy across all Indian states and territories
+METRIC_CRS = "EPSG:7755"
 MIN_HISTORY_DAYS = 60       # min observed days for per-facility model
 CONTAMINATION = 0.05        # Isolation Forest contamination parameter
 N_ESTIMATORS = 100
@@ -60,6 +62,18 @@ def spatial_join(hotspots: pd.DataFrame, facilities: pd.DataFrame):
     preserved exactly as they came from VIIRS. We do NOT replace them
     with facility coordinates.
     """
+    # Determine facility coordinate column names (supports lat/lon or latitude/longitude)
+    fac_lat = "latitude" if "latitude" in facilities.columns else "lat"
+    fac_lon = "longitude" if "longitude" in facilities.columns else "lon"
+
+    # Only include non-colliding facility attributes in facility GeoDataFrame
+    fac_cols = ["facility_id"]
+    if "facility_name" in facilities.columns:
+        fac_cols.append("facility_name")
+    elif "name" in facilities.columns:
+        facilities = facilities.rename(columns={"name": "facility_name"})
+        fac_cols.append("facility_name")
+
     # Convert to GeoDataFrames
     hotspot_gdf = gpd.GeoDataFrame(
         hotspots,
@@ -67,20 +81,20 @@ def spatial_join(hotspots: pd.DataFrame, facilities: pd.DataFrame):
         crs="EPSG:4326",
     )
     facility_gdf = gpd.GeoDataFrame(
-        facilities,
-        geometry=gpd.points_from_xy(facilities["lon"], facilities["lat"]),
+        facilities[fac_cols],
+        geometry=gpd.points_from_xy(facilities[fac_lon], facilities[fac_lat]),
         crs="EPSG:4326",
     )
 
-    # Project to UTM for metric buffering
-    hotspot_utm = hotspot_gdf.to_crs(UTM_CRS)
-    facility_utm = facility_gdf.to_crs(UTM_CRS)
+    # Project to India-wide metric CRS for accurate buffering across all states
+    hotspot_metric = hotspot_gdf.to_crs(METRIC_CRS)
+    facility_metric = facility_gdf.to_crs(METRIC_CRS)
 
     # Buffer facilities
-    facility_utm["geometry"] = facility_utm.geometry.buffer(BUFFER_METERS)
+    facility_metric["geometry"] = facility_metric.geometry.buffer(BUFFER_METERS)
 
     # Spatial join (predicate: within)
-    joined = gpd.sjoin(hotspot_utm, facility_utm, how="left", predicate="within")
+    joined = gpd.sjoin(hotspot_metric, facility_metric, how="left", predicate="within")
 
     # Separate matched vs unmatched
     matched_mask = joined["index_right"].notna()
@@ -108,13 +122,9 @@ def spatial_join(hotspots: pd.DataFrame, facilities: pd.DataFrame):
     # Keep only needed columns from the join
     # Preserve ALL original hotspot columns + facility_id, facility_name
     hotspot_cols = list(hotspots.columns)
-    extra_cols = ["facility_id"]
-    if "name" in matched.columns:
-        extra_cols.append("name")
+    extra_cols = ["facility_id", "facility_name"]
     keep_cols = [c for c in hotspot_cols + extra_cols if c in matched.columns]
     matched = matched[keep_cols].copy()
-    if "name" in matched.columns:
-        matched = matched.rename(columns={"name": "facility_name"})
 
     return matched, unmatched
 
@@ -182,26 +192,14 @@ def build_facility_day_table(matched: pd.DataFrame) -> pd.DataFrame:
     for c in fill_cols:
         merged[c] = merged[c].fillna(0)
 
-    # Days since last observation
+    # Days since last observation (vectorized)
     merged = merged.sort_values(["facility_id", "date"])
     merged["has_obs"] = merged["hotspot_count"] > 0
 
-    def _days_since_last(group):
-        result = pd.Series(np.nan, index=group.index)
-        last_obs = pd.NaT
-        for i, (idx_val, row) in enumerate(group.iterrows()):
-            if last_obs is not pd.NaT and last_obs is not None:
-                result.loc[idx_val] = (row["date"] - last_obs).days
-            else:
-                result.loc[idx_val] = np.nan
-            if row["has_obs"]:
-                last_obs = row["date"]
-        return result
-
-    merged["days_since_last_obs"] = (
-        merged.groupby("facility_id", group_keys=False)
-        .apply(_days_since_last)
+    last_obs = merged.groupby("facility_id")["date"].transform(
+        lambda s: merged.loc[s.index, "date"].where(merged.loc[s.index, "has_obs"]).ffill().shift(1)
     )
+    merged["days_since_last_obs"] = (merged["date"] - last_obs).dt.days
 
     print(f"  Facility-day table: {len(merged)} rows, {len(facilities)} facilities")
     return merged
@@ -475,13 +473,13 @@ def combine_branch_a(fac_features: pd.DataFrame) -> pd.DataFrame:
 # =====================================================================
 
 def _resolve_facilities_csv() -> Path:
-    """Find the facility CSV — try regional first, then GIS layer."""
-    if FACILITIES_CSV.exists():
-        return FACILITIES_CSV
+    """Find the facility CSV — try nationwide GIS layer first, then regional."""
     if GIS_FACILITIES_CSV.exists():
         return GIS_FACILITIES_CSV
+    if FACILITIES_CSV.exists():
+        return FACILITIES_CSV
     raise FileNotFoundError(
-        f"No facility CSV found at {FACILITIES_CSV} or {GIS_FACILITIES_CSV}. "
+        f"No facility CSV found at {GIS_FACILITIES_CSV} or {FACILITIES_CSV}. "
         "Run the facility generation step first."
     )
 

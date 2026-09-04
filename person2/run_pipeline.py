@@ -51,7 +51,7 @@ def main():
     print("=" * 60)
     print("  PERSON 2 — FIRE EXISTENCE DETECTOR")
     print("  Role: Detect anomalous thermal/fire events")
-    print("  Region: Gujarat Golden Corridor")
+    print("  Region: India (Nationwide Coverage)")
     print("=" * 60)
 
     if args.eval_only:
@@ -69,33 +69,41 @@ def main():
     # ============================================================
     # Step 1 — Facilities (if not skipped)
     # ============================================================
-    from region_config import REGION_NAME, BBOX
-    facilities_csv = PROJECT_DIR / f"{REGION_NAME}_facilities.csv"
+    gis_facilities = PROJECT_DIR / "gis" / "india_industrial_facilities_clean.csv"
+    corridor_facilities = PROJECT_DIR / "gujarat_golden_corridor_facilities.csv"
 
-    if not args.skip_facilities and not facilities_csv.exists():
-        print("\n" + "=" * 60)
-        print("STEP 1: Generating synthetic industrial facilities...")
-        print("=" * 60)
-        import numpy as np
-        import pandas as pd
-
-        # Generate synthetic facilities so pipeline can proceed
-        rng = np.random.default_rng(42)
-        n = 30
-        df = pd.DataFrame({
-            "osm_id": range(n),
-            "osm_type": "synthetic",
-            "name": [f"Synthetic Facility {i}" for i in range(n)],
-            "facility_type_tag": "industrial",
-            "lat": rng.uniform(BBOX["south"] + 0.05, BBOX["north"] - 0.05, n),
-            "lon": rng.uniform(BBOX["west"] + 0.05, BBOX["east"] - 0.05, n),
-        })
-        df = df.reset_index(drop=True)
-        df["facility_id"] = [f"IND-{i:04d}" for i in range(len(df))]
-        df.to_csv(facilities_csv, index=False)
-        print(f"Saved: {facilities_csv}")
+    if gis_facilities.exists():
+        facilities_csv = gis_facilities
+        print(f"\nUsing nationwide GIS industrial facilities catalog: {facilities_csv}")
+    elif corridor_facilities.exists():
+        facilities_csv = corridor_facilities
+        print(f"\nUsing regional facilities catalog: {facilities_csv}")
     else:
-        print(f"\nUsing existing facilities: {facilities_csv}")
+        from region_config import REGION_NAME, BBOX
+        facilities_csv = PROJECT_DIR / f"{REGION_NAME}_facilities.csv"
+        if not args.skip_facilities and not facilities_csv.exists():
+            print("\n" + "=" * 60)
+            print("STEP 1: Generating synthetic industrial facilities across India...")
+            print("=" * 60)
+            import numpy as np
+            import pandas as pd
+            from region_config import filter_points_within_india
+
+            rng = np.random.default_rng(42)
+            n = 50
+            df = pd.DataFrame({
+                "osm_id": range(n),
+                "osm_type": "synthetic",
+                "name": [f"Synthetic Facility {i}" for i in range(n)],
+                "facility_type_tag": "industrial",
+                "latitude": rng.uniform(BBOX["south"] + 2.0, BBOX["north"] - 2.0, n * 2),
+                "longitude": rng.uniform(BBOX["west"] + 2.0, BBOX["east"] - 2.0, n * 2),
+            })
+            df = filter_points_within_india(df, lat_col="latitude", lon_col="longitude").head(n)
+            df = df.reset_index(drop=True)
+            df["facility_id"] = [f"IND-{i:04d}" for i in range(len(df))]
+            df.to_csv(facilities_csv, index=False)
+            print(f"Saved: {facilities_csv}")
 
     # ============================================================
     # Step 2 — FIRMS Data Pull
@@ -197,18 +205,25 @@ def main():
     else:
         print("  [FAIL] Found fire_event_detected == False in handoff!")
 
-    # 3. Latitude/longitude are original VIIRS coordinates
+    # 3. Latitude/longitude strictly within India's boundary
     checks_total += 1
-    lat_range = (combined["latitude"].min(), combined["latitude"].max())
-    lon_range = (combined["longitude"].min(), combined["longitude"].max())
-    from region_config import BBOX as bbox_check
-    lat_ok = lat_range[0] >= bbox_check["south"] - 0.1 and lat_range[1] <= bbox_check["north"] + 0.1
-    lon_ok = lon_range[0] >= bbox_check["west"] - 0.1 and lon_range[1] <= bbox_check["east"] + 0.1
-    if lat_ok and lon_ok:
-        print(f"  [PASS] Coordinates within expected region bounds")
+    from region_config import get_india_boundary
+    import geopandas as gpd_boundary_check
+    india_geom = get_india_boundary()
+    pts = gpd_boundary_check.GeoSeries(
+        gpd_boundary_check.points_from_xy(combined["longitude"], combined["latitude"]),
+        crs="EPSG:4326"
+    )
+    all_within = pts.within(india_geom).all()
+    if all_within:
+        lat_range = (combined["latitude"].min(), combined["latitude"].max())
+        lon_range = (combined["longitude"].min(), combined["longitude"].max())
+        print(f"  [PASS] All {len(combined)} detections fall strictly within India's borders "
+              f"(lat: {lat_range[0]:.2f}-{lat_range[1]:.2f}, lon: {lon_range[0]:.2f}-{lon_range[1]:.2f})")
         checks_passed += 1
     else:
-        print(f"  [FAIL] Coordinates outside expected region: lat={lat_range}, lon={lon_range}")
+        n_outside = (~pts.within(india_geom)).sum()
+        print(f"  [FAIL] {n_outside} detections fall outside India's borders!")
 
     # 4. detection_id is unique
     checks_total += 1

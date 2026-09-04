@@ -17,6 +17,8 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
+from region_config import filter_points_within_india
+
 # Resolve paths relative to this script's directory
 PERSON2_DIR = Path(__file__).resolve().parent
 DATA_DIR = PERSON2_DIR / "data"
@@ -90,6 +92,9 @@ def load_and_clean(path: Path = RAW_CSV) -> pd.DataFrame:
     dropped = before - len(df)
     if dropped:
         print(f"Dropped {dropped} rows with null lat/lon/frp")
+
+    # Enforce strict spatial containment within India
+    df = filter_points_within_india(df)
 
     # ------------------------------------------------------------------
     # 4. Flag low-confidence detections (keep, don't delete)

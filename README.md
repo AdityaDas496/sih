@@ -1,4 +1,4 @@
-# VIKRAMAN (विक्रमण) 🛰️🔥
+# VIKRAMAN 🛰️🔥
 ### Satellite-Based Industrial Thermal Anomaly Classification & GIS Visualization System
 
 > **VIKRAMAN** is an advanced GIS operations dashboard and automated backend pipeline designed for satellite-based industrial fire detection, thermal anomaly classification, and proximity intelligence across India.
@@ -156,5 +156,5 @@ Each event detail drawer includes 1-click external satellite verification links:
 
 ## 🛡️ License
 
-Developed for Smart India Hackathon (SIH) FireWatch Project.
+Developed for Smart India Hackathon (SIH) Project.
 All rights reserved.

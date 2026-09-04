@@ -1,0 +1,6 @@
+# Person 2 model artifacts directory
+# Isolation Forest models are trained in-memory during each pipeline run
+# and do not require persisted model files.
+#
+# If future versions require persisted models, place .joblib or .pkl
+# files here. Keep artifacts under 10 MB.
